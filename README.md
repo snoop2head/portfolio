@@ -68,7 +68,7 @@ Established hashtag-based sentence generator for Instagram influencers(Korean La
   * Collection: Google Vision API, instagram-crawler
   * Wrangling: pandas
 
-### [Clustering Exchange Program Universities]([https://github.com/snoop2head/OIA_Text_Wrangling/blob/master/%EC%95%88%EC%98%81%EC%A7%84_2015190122_%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%97%B0%EC%8A%B5_%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf](https://github.com/snoop2head/OIA_Text_Wrangling/blob/master/안영진_2015190122_정보처리연습_최종보고서.pdf))
+### [Clustering Exchange Program Universities](https://github.com/snoop2head/OIA_Text_Wrangling/blob/master/안영진_2015190122_정보처리연습_최종보고서.pdf)
 
 Clustered exchange program universities based on students' reviews text data.
 
