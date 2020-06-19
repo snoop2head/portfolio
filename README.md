@@ -1,12 +1,11 @@
 # Portfolio
 
-[English]() | [한국어]()
+[English](./README.md) | [한국어](./README-Kor.md)
 
 Learn enough to be dangerous to build an idea. Concept it, show it to the world.
 
 * Name: Young Jin Ahn
 * Email: young_ahn@yonsei.ac.kr
-* GitHub: https://github.com/snoop2head
 * Blog: https://velog.io/@snoop2head
 
 ## Opensource Contribution
