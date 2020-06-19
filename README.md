@@ -1,6 +1,6 @@
 # Portfolio
 
-Learn enough to be dangerous to build an idea. Concept it, show it to the world.
+**Learn enough to be dangerous to build an idea. Concept it, show it to the world.**
 
 * Name: Young Jin Ahn
 * Email: young_ahn@yonsei.ac.kr
