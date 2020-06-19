@@ -1,7 +1,5 @@
 # Portfolio
 
-[English](README.md) | [한국어](README-Kor.md)
-
 Learn enough to be dangerous to build an idea. Concept it, show it to the world.
 
 * Name: Young Jin Ahn
