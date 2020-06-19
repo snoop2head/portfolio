@@ -12,7 +12,7 @@ Learn enough to be dangerous to build an idea. Concept it, show it to the world.
 
 ### [docker.github.io](https://github.com/docker/docker.github.io)
 
-Source repo for Docker's Official Documentation
+Source repo for Docker's Official Documentation.
 
 * Duration: March 2020 ~ April 2020
 * Role: Updated PostgreSQL initialization for "Quickstart: dockerizing django" documentation.
@@ -24,7 +24,7 @@ Source repo for Docker's Official Documentation
 
 ### [fitcuration.site](https://github.com/fitcuration)
 
-[🏋️‍♂️ Website Demo](http://fitcuration.site/) | Recommends users adaquate exercises based on their search keywords or search phrases.
+[🏋️‍♂️ Website Demo](http://fitcuration.site/) | Search your fitness.
 
 * Duration: Feb 2020 ~ Now
 * Role: Built recommendation algorithm, Fullstack web development
@@ -36,7 +36,7 @@ Source repo for Docker's Official Documentation
 
 ### [ghoststation.wiki](https://github.com/ghoststation)
 
-[👻 Website Demo](http://ec2-54-180-118-197.ap-northeast-2.compute.amazonaws.com/ko/home) | Wikipedia for radio program Ghoststation broadcasted by Shin Hae-chul from 2001 to 2012.
+[👻 Website Demo](http://ec2-54-180-118-197.ap-northeast-2.compute.amazonaws.com/ko/home) | Wikipedia for radio program Ghoststation(Shin Hae-chul,  2001~2012).
 
 * Duration: Jan 2020 ~ Now
 * Role: Created audio transcripts for radio program, Distributed wikipedia website on top of [wiki.js framework](https://github.com/Requarks/wiki).
@@ -46,7 +46,7 @@ Source repo for Docker's Official Documentation
 
 ### [Moneypedia](https://github.com/Moneypedia/finance-extension)
 
-Look up and learn finance concepts using Google Chrome Extension
+Look up and learn finance concepts with Google Chrome Extension.
 
 * Duration: May 2020 ~ Now
 * Role: Built Chrome Extension, Created & Deployed API Server
@@ -57,12 +57,12 @@ Look up and learn finance concepts using Google Chrome Extension
 
 ## Data Projects
 
-### [Instagram Hashtag Recommendation System](https://github.com/Keracorn/geulstagram)
+### [Emotional Instagram Posts(글스타그램) Dataset](https://github.com/Keracorn/geulstagram)
 
-Established hashtag-based sentence generator for Instagram influencers(Korean Language) for 2019 Opensource Contributhon.
+Created Emotional Instagram Posts(글스타그램) dataset, awarded 3rd place for *2020 SelectStar & National Information Society Agency AI Dataset Competition*.
 
-* Duration: Sept 2019 ~ Nov 2019
-* Role: Project Manager, Maintained Github Repository, Collected data from Instagram, Adopted Google Vision API to the team. 
+* Duration: Sept 2019 ~ Mar 2020
+* Role: Project Manager, Github Maintainer
 * Skills
   * Collection: Google Vision API, instagram-crawler
   * Wrangling: pandas
@@ -93,7 +93,7 @@ Predict the spread of COVID-19 in early stage after its entrance to country.
 
 ### [Indigo](https://github.com/snoop2head/indigo)
 
-[🎹 YouTube Demo](https://www.youtube.com/watch?v=uIOWqumaOD4) | Don't miss any concerts for your favorite artists, with this KakaoTalk Chatbot
+[🎹 YouTube Demo](https://www.youtube.com/watch?v=uIOWqumaOD4) | Don't miss any concerts for your favorite artists with KakaoTalk Chatbot
 
 * Duration: July 2019 ~ August 2019
 * Role: Created API server for KakaoTalk chatbot, Visualized concert schedules on user's Google Calendar, Created / Updated events in Google Calendar.
@@ -111,3 +111,30 @@ Predict the spread of COVID-19 in early stage after its entrance to country.
   * Backend: Flask, Pymongo & MongoDB
   * Deployment: AWS EC2
 
+## Skillsets
+
+**Backend**
+
+* Python / Django - Django ORM, CRUD, OAuth
+* Python / FastAPI(uvicorn) - CRUD API
+* Python / Flask - CRUD API
+
+**Client**
+
+* HTML / Pug.js
+* CSS / Sass, Tailwind, Bulma
+* JavaScript / ES6
+
+**Deployment**
+
+* Docker, docker-compose
+* AWS EC2, Google Cloud App Engine
+* AWS S3, RDS (PostgreSQL)
+* AWS Elastic Beanstalk, CodePipeline
+
+**Data Analysis**
+
+* Data Analysis Library: pandas, numpy
+* Machine Learning: scikit-learn, gensim
+* NLP Library: KoNLPy(Mecab, Twitter), soynlp, NLTK
+* Google Cloud APIs: Vision(Object Detection, OCR), Speech-to-Text, Calendar, Spreadsheet, Docs, Translate
