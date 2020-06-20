@@ -28,7 +28,7 @@ Source repo for Docker's Official Documentation.
 * Role: Built recommendation algorithm, Fullstack web development
 * Skills
   * Backend: Django, Django ORM & PostgreSQL
-  * Client: Sass, Tailwind, Pug
+  * Client: Sass, Tailwind, HTML5
   * Deployment: Docker, AWS RDS, AWS S3, AWS EBS
   * Natural Language Processing: scikit-learn, gensim, konlpy, soynlp
 
