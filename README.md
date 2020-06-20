@@ -13,7 +13,7 @@
 Source repo for Docker's Official Documentation.
 
 * Duration: March 2020 ~ April 2020
-* Role: Updated PostgreSQL initialization for "Quickstart: dockerizing django" documentation.
+* Role: Updated PostgreSQL initialization for ["Quickstart: dockerizing django"](https://github.com/docker/docker.github.io/pull/10624) documentation.
 * Skills
   * Backend: Django, Django ORM & PostgreSQL
   * Deployment: Docker, docker-compose
@@ -28,7 +28,7 @@ Source repo for Docker's Official Documentation.
 * Role: Built recommendation algorithm, Fullstack web development
 * Skills
   * Backend: Django, Django ORM & PostgreSQL
-  * Client: SCSS, Tailwind, Pug
+  * Client: Sass, Tailwind, Pug
   * Deployment: Docker, AWS RDS, AWS S3, AWS EBS
   * Natural Language Processing: scikit-learn, gensim, konlpy, soynlp
 
