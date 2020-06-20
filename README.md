@@ -32,6 +32,8 @@ Source repo for Docker's Official Documentation.
   * Deployment: Docker, AWS RDS, AWS S3, AWS EBS
   * Natural Language Processing: scikit-learn, gensim, konlpy, soynlp
 
+<img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_3.jpg"><img width="160" alt="image" src="./images/fit_3_exercise_specific.jpg"><img width="160" alt="image" src="./images/fit_5_category.jpg"><img width="160" alt="image" src="./images/fit_5_category_1.jpg"><img width="160" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg">
+
 ### [ghoststation.wiki](https://github.com/ghoststation)
 
 [👻 Website Demo](http://ec2-54-180-118-197.ap-northeast-2.compute.amazonaws.com/ko/home) | Wikipedia for radio program Ghoststation(Shin Hae-chul,  2001~2012).
@@ -41,6 +43,12 @@ Source repo for Docker's Official Documentation.
 * Skills
   * Data Processing: Selenium, Google Speech-to-Text API
   * Deployment: Docker
+
+<img width="160" alt="image" src="./images/ghost_1_1home.jpg"><img width="170" alt="image" src="./images/ghost_1_edit.jpg"><img width="170" alt="image" src="./images/ghost1-edit2.jpg">
+
+<img width="160" alt="image" src="./images/ghost2-queries.jpg"><img width="160" alt="image" src="./images/ghost2-transcript_page.jpg"><img width="160" alt="image" src="./images/ghost6_comments.jpg">
+
+<img width="160" alt="image" src="./images/ghost3_login.jpg"><img width="160" alt="image" src="./images/ghost4_personal_page.jpg">
 
 ### [Moneypedia](https://github.com/Moneypedia/finance-extension)
 
