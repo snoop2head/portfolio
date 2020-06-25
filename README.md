@@ -44,9 +44,7 @@ Source repo for Docker's Official Documentation.
   * Data Processing: Selenium, Google Speech-to-Text API
   * Deployment: Docker
 
-<img width="160" alt="image" src="./images/ghost_1_1home.jpg"><img width="170" alt="image" src="./images/ghost_1_edit.jpg"><img width="160" alt="image" src="./images/ghost2-queries.jpg"><img width="158" alt="image" src="./images/ghost2-transcript_page.jpg"><img width="160" alt="image" src="./images/ghost6_comments.jpg">
-
-<img width="160" alt="image" src="./images/ghost3_login.jpg"><img width="160" alt="image" src="./images/ghost4_personal_page.jpg">
+<img width="160" alt="image" src="./images/ghost_1_1home.jpg"><img width="170" alt="image" src="./images/ghost_1_edit.jpg"><img width="160" alt="image" src="./images/ghost2-queries.jpg"><img width="158" alt="image" src="./images/ghost2-transcript_page.jpg"><img width="160" alt="image" src="./images/ghost6_comments.jpg"><img width="160" alt="image" src="./images/ghost3_login.jpg"><img width="160" alt="image" src="./images/ghost4_personal_page.jpg">
 
 ### [Moneypedia](https://github.com/Moneypedia/finance-extension)
 
