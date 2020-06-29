@@ -91,6 +91,16 @@ Predict the spread of COVID-19 in early stage after its entrance to country.
   * Wrangling: pandas
 * Precision | Results: ±5% accuracy for one-day prediction, ±10% accuracy for 30-day prediction for South Korean cases.
 
+### [Korean Spinoff Event Tracker](https://github.com/snoop2head/spinoff_hunter_kor)
+
+Get financial data of public companies involved in spinoff events on Google Spreadsheet
+
+* Duration: June 2020
+* Role: Crawl Data, Wrangle Financial Dataset, Display on Google Sheets
+* Skills
+  * Collection: BeautifulSoup4
+  * Wrangling: pandas
+
 ## Chatbots
 
 ### [Indigo](https://github.com/snoop2head/indigo)
