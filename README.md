@@ -93,7 +93,7 @@ Predict the spread of COVID-19 in early stage after its entrance to country.
 
 ### [Korean Spinoff Event Tracker](https://github.com/snoop2head/spinoff_hunter_kor)
 
-Get financial data of public companies involved in spinoff events on Google Spreadsheet
+[🧩 Dataset Demo](https://docs.google.com/spreadsheets/d/1chJ2NKHVc0gKjsMaQI1UHEPxdjneV1ZWaTGHseQvxP4/edit?usp=sharing) | Get financial data of public companies involved in spinoff events on Google Spreadsheet
 
 * Duration: June 2020
 * Role: Crawl Data, Wrangle Financial Dataset, Display on Google Sheets
