@@ -69,7 +69,7 @@ Created Emotional Instagram Posts(글스타그램) dataset, awarded 3rd place fo
   * Collection: Google Vision API, instagram-crawler
   * Wrangling: pandas
 
-### [Clustering Exchange Program Universities](https://github.com/snoop2head/OIA_Text_Wrangling/blob/master/안영진_2015190122_정보처리연습_최종보고서.pdf)
+### [Exploring Yonsei Exchange Program's Universities](https://github.com/snoop2head/yonsei-exchange-life)
 
 Clustered exchange program universities based on students' reviews text data.
 
