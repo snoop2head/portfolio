@@ -71,10 +71,10 @@ Created Emotional Instagram Posts(글스타그램) dataset, awarded 3rd place fo
 
 ### [Exploring Yonsei Exchange Program's Universities](https://github.com/snoop2head/yonsei-exchange-life)
 
-Clustered exchange program universities based on students' reviews text data.
+Sentiment Analysis & Clustering Yonsei exchange program universities based on students' reviews text data.
 
 * Duration: Sep 2019  ~ Dec 2019
-* Role: Collected review text data, Categorized & Tagged words, Clustered universities with K-means clustering.
+* Role: Collected and refined review text data. Sentiment Analysis with pretrained BERT model on NSMC corpus, Clustered universities with K-means clustering, 
 * Skills
   * Collection: Selenium, BeautifulSoup4
   * Wrangling: pandas, statistic
