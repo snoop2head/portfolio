@@ -32,7 +32,7 @@ Source repo for Docker's Official Documentation.
   * Deployment: Docker, AWS RDS, AWS S3, AWS EBS
   * Natural Language Processing: scikit-learn, gensim, konlpy, soynlp
 
-<img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="150" alt="image" src="./images/fit_3_exercise_specific.jpg"><img width="160" alt="image" src="./images/fit_5_category.jpg"><img width="150" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg">
+<img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="150" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg">
 
 ### [ghoststation.wiki](https://github.com/ghoststation)
 
@@ -44,20 +44,24 @@ Source repo for Docker's Official Documentation.
   * Data Processing: Selenium, Google Speech-to-Text API
   * Deployment: Docker
 
-<img width="160" alt="image" src="./images/ghost_1_1home.jpg"><img width="170" alt="image" src="./images/ghost_1_edit.jpg"><img width="160" alt="image" src="./images/ghost2-queries.jpg"><img width="158" alt="image" src="./images/ghost2-transcript_page.jpg"><img width="160" alt="image" src="./images/ghost6_comments.jpg"><img width="160" alt="image" src="./images/ghost3_login.jpg"><img width="160" alt="image" src="./images/ghost4_personal_page.jpg">
-
-### [Moneypedia](https://github.com/Moneypedia/finance-extension)
-
-Look up and learn finance concepts with Google Chrome Extension.
-
-* Duration: May 2020 ~ Now
-* Role: Built Chrome Extension, Created & Deployed API Server
-* Skills
-  * Backend: FastAPI, Pymongo & MongoDB
-  * Client: Vanilla JavaScript, Bulma CSS
-  * Deployment: Google Cloud App Engine
+<img width="160" alt="image" src="./images/ghost_1_1home.jpg"><img width="158" alt="image" src="./images/ghost2-transcript_page.jpg"><img width="160" alt="image" src="./images/ghost6_comments.jpg"><img width="160" alt="image" src="./images/ghost3_login.jpg">
 
 ## Data Projects
+
+### [Exploring Yonsei Exchange Program's Universities](https://github.com/snoop2head/yonsei-exchange-program)
+
+[✈️ Website Demo](https://yonsei-exchange.netlify.app/) | Sentiment Analysis, Summarization, Clustering Yonsei exchange program with students' reviews text data.
+
+<img height="300" width="200" alt="image" src="./images/yonsei_exchange1.png"><img height="300" width="250" alt="image" src="./images/yonsei_exchange2.png"><img height="300" width="250" alt="image" src="./images/yonsei_exchange3.png">
+
+* Duration: Sep 2019  ~ 
+* Role: Collected and refined review text data. Sentiment Analysis with pretrained BERT model on NSMC corpus, Clustered universities with K-means clustering, 
+* Skills
+  * Collection: Selenium, BeautifulSoup4
+  * Wrangling: pandas, statistic
+  * Clustering: scikit-learn, matplotlib
+  * Sentiment Analysis: Pytorch, BERT & transformers, Tensorflow LSTM
+  * Summarizing: textrankr, konlpy, soynlp
 
 ### [Emotional Instagram Posts(글스타그램) Dataset](https://github.com/Keracorn/geulstagram)
 
@@ -68,18 +72,6 @@ Created Emotional Instagram Posts(글스타그램) dataset, awarded 3rd place fo
 * Skills
   * Collection: Google Vision API, instagram-crawler
   * Wrangling: pandas
-
-### [Exploring Yonsei Exchange Program's Universities](https://github.com/snoop2head/yonsei-exchange-program)
-
-Sentiment Analysis & Clustering Yonsei exchange program universities based on students' reviews text data.
-
-* Duration: Sep 2019  ~ Dec 2019
-* Role: Collected and refined review text data. Sentiment Analysis with pretrained BERT model on NSMC corpus, Clustered universities with K-means clustering, 
-* Skills
-  * Collection: Selenium, BeautifulSoup4
-  * Wrangling: pandas, statistic
-  * Clustering: scikit-learn, matplotlib
-* Precision | Results: 93%
 
 ###  [Covid19](https://github.com/Rank23/COVID19)
 
