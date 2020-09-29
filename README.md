@@ -142,3 +142,4 @@ Predict the spread of COVID-19 in early stage after its entrance to country.
 * Machine Learning: scikit-learn, gensim
 * NLP Library: KoNLPy(Mecab, Twitter), soynlp, NLTK
 * Google Cloud APIs: Vision(Object Detection, OCR), Speech-to-Text, Calendar, Spreadsheet, Docs, Translate
+
