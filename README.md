@@ -57,11 +57,11 @@ Source repo for Docker's Official Documentation.
 * Duration: Sep 2019  ~ 
 * Role: Collected and refined review text data. Sentiment Analysis with pretrained BERT model on NSMC corpus, Clustered universities with K-means clustering, 
 * Skills
-  * Collection: Selenium, BeautifulSoup4
-  * Wrangling: pandas, statistic
+  * Sentiment Analysis: BERT & transformers
   * Clustering: scikit-learn, matplotlib
-  * Sentiment Analysis: Pytorch, BERT & transformers, Tensorflow LSTM
   * Summarizing: textrankr, konlpy, soynlp
+  * Wrangling: pandas, numpy, statistic
+  * Web: Gatsby.js, GraphQL, Netlify
 
 ### [Emotional Instagram Posts(글스타그램) Dataset](https://github.com/Keracorn/geulstagram)
 
