@@ -36,7 +36,7 @@ Source repo for Docker's Official Documentation.
 
 ### [ghoststation.wiki](https://github.com/ghoststation)
 
-[👻 Website Demo](http://ec2-54-180-118-197.ap-northeast-2.compute.amazonaws.com/ko/home) | Wikipedia for radio program Ghoststation(Shin Hae-chul,  2001~2012).
+Wikipedia for radio program Ghoststation(Shin Hae-chul,  2001~2012).
 
 * Duration: Jan 2020 ~ Now
 * Role: Created audio transcripts for radio program, Distributed wikipedia website on top of [wiki.js framework](https://github.com/Requarks/wiki).
