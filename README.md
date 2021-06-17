@@ -105,16 +105,6 @@ Predict the spread of COVID-19 in early stage after its entrance to country.
   - Backend: Flask, Pymongo & MongoDB
   - Deployment: AWS EC2
 
-### [Slack PR Material Tracker](https://github.com/snoop2head/comments_tracker)
-
-[🛰 YouTube Demo](https://youtu.be/15vnPbewoLw) | Public relations comments tracking Slack chatbot for target page.
-
-- Duration: August 2019 ~ August 2019
-- Role: Create API server for Slack chatbot, Create comment crawlers for comment widgets: Disqus, Livere, Facebook etc.
-- Skills
-  - Backend: Flask, Pymongo & MongoDB
-  - Deployment: AWS EC2
-
 ## Skillsets
 
 **Backend**
