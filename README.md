@@ -20,35 +20,7 @@ Source repo for Docker's Official Documentation.
 
 ## Web Projects
 
-### [fitcuration.site](https://github.com/fitcuration)
-
-[🏋️‍♂️ Website Demo](http://fitcuration.site/) | Search your fitness.
-
-- Duration: Feb 2020 ~ Now
-- Role: Built recommendation algorithm, Fullstack web development
-- Skills
-  - Backend: Django, Django ORM & PostgreSQL
-  - Client: Sass, Tailwind, HTML5
-  - Deployment: Docker, AWS RDS, AWS S3, AWS EBS
-  - Natural Language Processing: scikit-learn, gensim, konlpy, soynlp
-
-<img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="150" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg">
-
-### [ghoststation.wiki](https://github.com/ghoststation)
-
-Wikipedia for radio program Ghoststation(Shin Hae-chul, 2001~2012).
-
-- Duration: Jan 2020 ~ Now
-- Role: Created audio transcripts for radio program, Distributed wikipedia website on top of [wiki.js framework](https://github.com/Requarks/wiki).
-- Skills
-  - Data Processing: Selenium, Google Speech-to-Text API
-  - Deployment: Docker
-
-<img width="160" alt="image" src="./images/ghost_1_1home.jpg"><img width="158" alt="image" src="./images/ghost2-transcript_page.jpg"><img width="160" alt="image" src="./images/ghost6_comments.jpg"><img width="160" alt="image" src="./images/ghost3_login.jpg">
-
-## Data Projects
-
-### [Exploring Yonsei Exchange Program's Universities](https://github.com/snoop2head/yonsei-exchange-program)
+### [Exploring Yonsei Exchange Program's Provided Foreign Universities](https://github.com/snoop2head/yonsei-exchange-program)
 
 [✈️ Website Demo](https://yonsei-exchange.netlify.app/) | Sentiment Analysis, Summarization, Clustering Yonsei exchange program with students' reviews text data.
 
@@ -62,6 +34,22 @@ Wikipedia for radio program Ghoststation(Shin Hae-chul, 2001~2012).
   - Summarizing: textrankr, konlpy, soynlp
   - Wrangling: pandas, numpy, statistic
   - Web: Gatsby.js, GraphQL, Netlify
+
+### [fitcuration.site](https://github.com/snoop2head/fitcuration-django)
+
+[🏋️‍♂️ Demo Video](https://youtu.be/kef0CxzMANo?t=38) | Search your fitness.
+
+- Duration: Feb 2020 ~ May 2020
+- Role: Built recommendation algorithm, Fullstack web development
+- Skills
+  - Backend: Django, Django ORM & PostgreSQL
+  - Client: Sass, Tailwind, HTML5
+  - Deployment: Docker, AWS RDS, AWS S3, AWS EBS
+  - Natural Language Processing: scikit-learn, gensim, konlpy, soynlp
+
+<img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="150" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg">
+
+## Data Projects
 
 ### [Emotional Instagram Posts(글스타그램) Dataset](https://github.com/Keracorn/geulstagram)
 
