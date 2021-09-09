@@ -5,7 +5,6 @@
 - Name: Young Jin Ahn
 - Email: young_ahn@yonsei.ac.kr
 - Blog: https://snoop2head.github.io/
-- (예전) 블로그: https://velog.io/@snoop2head
 
 ## Opensource Contribution
 
