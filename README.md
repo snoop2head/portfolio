@@ -4,25 +4,25 @@
 
 - Name: Young Jin Ahn
 - Email: young_ahn@yonsei.ac.kr
-- Blog: https://velog.io/@snoop2head
+- Blog: https://snoop2head.github.io/
 
 ## Opensource Contribution
 
 ### [docker.github.io](https://github.com/docker/docker.github.io)
 
-Source repo for Docker's Official Documentation.
+[🐳 Pull Request](https://github.com/docker/docker.github.io/pull/10624) | Contributed to source repo for Docker's Official Documentation.
 
 - Duration: March 2020 ~ April 2020
-- Role: Updated PostgreSQL initialization for ["Quickstart: dockerizing django"](https://github.com/docker/docker.github.io/pull/10624) documentation.
+- Role: Updated PostgreSQL initialization for "Quickstart: dockerizing django" documentation.
 - Skills
   - Backend: Django, Django ORM & PostgreSQL
   - Deployment: Docker, docker-compose
 
-## Web Projects
+## Projects
 
-### [Exploring Yonsei Exchange Program's Provided Foreign Universities](https://github.com/snoop2head/yonsei-exchange-program)
+### [Exchange Program Overview Website](https://github.com/snoop2head/yonsei-exchange-program)
 
-[✈️ Website Demo](https://yonsei-exchange.netlify.app/) | Sentiment Analysis, Summarization, Clustering Yonsei exchange program with students' reviews text data.
+[✈️ Website Demo](https://yonsei-exchange.netlify.app/) | Based on Yonsei University students' text data, I built an website that shows the overview of each foreign exchange universities' information.
 
 <img height="300" width="200" alt="image" src="./images/yonsei_exchange1.png"><img height="300" width="250" alt="image" src="./images/yonsei_exchange2.png"><img height="300" width="250" alt="image" src="./images/yonsei_exchange3.png">
 
@@ -34,10 +34,26 @@ Source repo for Docker's Official Documentation.
   - Summarizing: textrankr, konlpy, soynlp
   - Wrangling: pandas, numpy, statistic
   - Web: Gatsby.js, GraphQL, Netlify
+- Side Notes
+  - 6000 Pageviews within 6 Months
+  - 4 minutes+ of Average Retention Time
+
+### [Mathpresso Corporation Joint Project](https://github.com/snoop2head/Mathpresso_Classification)
+
+[📄 Presentation](https://github.com/snoop2head/Mathpresso_Classification/blob/main/YBIGTA_%EB%A7%A4%EC%93%B0%ED%94%84%EB%A0%88%EC%86%8C_%EB%AA%BD%EB%8D%B0%EC%9D%B4%ED%81%AC_Final.pdf) | Data engineer student participant for mathematics problems classification task
+
+- Duration: November 2020 ~ December 2020
+- Role
+  - Preprocessed Korean mathematics problems dataset based on EDA.
+  - Maintained version of preprocessing module on Github.
+  - Finetuned KoBERT model for classification task.
+- Skills
+  - Classification: transformers, KoBERT
+  - Wrangling: pandas, numpy
 
 ### [fitcuration.site](https://github.com/snoop2head/fitcuration-django)
 
-[🏋️‍♂️ Demo Video](https://youtu.be/kef0CxzMANo?t=38) | Search your fitness.
+[🏋️‍♂️ Demo Video](https://youtu.be/kef0CxzMANo?t=38) | Searching adaquate excercise based on input sentence.
 
 - Duration: Feb 2020 ~ May 2020
 - Role: Built recommendation algorithm, Fullstack web development
@@ -49,13 +65,11 @@ Source repo for Docker's Official Documentation.
 
 <img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="150" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg">
 
-## Data Projects
-
-### [Emotional Instagram Posts(글스타그램) Dataset](https://github.com/Keracorn/geulstagram)
+### [Creating Emotional Instagram Posts(글스타그램) Dataset](https://github.com/Keracorn/geulstagram)
 
 Created Emotional Instagram Posts(글스타그램) dataset, awarded 3rd place for _2020 SelectStar & National Information Society Agency AI Dataset Competition_.
 
-- Duration: Sept 2019 ~ Mar 2020
+- Duration: September 2019 ~ March 2020
 - Role: Project Manager, Github Maintainer
 - Skills
   - Collection: Google Vision API, instagram-crawler
@@ -65,7 +79,7 @@ Created Emotional Instagram Posts(글스타그램) dataset, awarded 3rd place fo
 
 Predict the spread of COVID-19 in early stage after its entrance to country.
 
-- Duration: Februray 2020 ~ March 2020
+- Duration: February 2020 ~ March 2020
 - Role: Fixed existing errors on Github Repository, Wrote footnotes in both English and Korean.
 - Skills
   - Wrangling: pandas
