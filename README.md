@@ -10,7 +10,7 @@
 
 ### [docker.github.io](https://github.com/docker/docker.github.io)
 
-Contributed to source repo for Docker's documentation.| [🐳 Pull Request](https://github.com/docker/docker.github.io/pull/10624)
+Contributed to source repo for Docker's documentation. | [🐳 Pull Request](https://github.com/docker/docker.github.io/pull/10624)
 
 - Duration: March 2020 ~ April 2020
 - Role: Updated PostgreSQL initialization for "Quickstart: dockerizing django" documentation.
@@ -90,7 +90,7 @@ Created Emotional Instagram Posts(글스타그램) dataset. Awarded 3rd place fo
   - 4 minutes+ of Average Retention Time
 
 
-### [fitcuration.site](https://github.com/snoop2head/fitcuration-django)
+### [fitcuration website](https://github.com/snoop2head/fitcuration-django)
 
 [🏋️‍♂️ Demo Video](https://youtu.be/kef0CxzMANo?t=38) | Built an website that retrieves adaquate exercise based on the input sentence.
 
@@ -106,13 +106,35 @@ Created Emotional Instagram Posts(글스타그램) dataset. Awarded 3rd place fo
 
 ## Naver Boostcamp AI Tech Competitions
 
+### [Face Mask, Age, Gender Classification](https://github.com/boostcampaitech2/image-classification-level1-23)
 
+Identifying 18 classes from given images: classifying Age Range, Biological Sex, Face Mask
+
+- ✨ Individual Rank: 32nd / 250 participants in Public LB
+- 🥉 Team Rank: 11th / 38 teams in Private LB
+- Duration: Sep 2021
+
+### [KLUE Relation Extraction](https://github.com/boostcampaitech2/klue-level2-nlp-15)
+
+Extracting relations between subject entity and object entity from KLUE Benchmark dataset.
+
+- 🥇 AUPRC score of 83.2 ranked the 1st place / 19 teams in Private LB
+- 🥉 F1 score of 73.9 ranked 3rd place / 19 teams in Private LB
+- Duration: Oct 2021
+
+### [Open Domain Question Answering](https://github.com/boostcampaitech2/mrc-level2-nlp-15)
+
+Retrieving and Extracting answers from the wikipedia texts for the given questions.
+
+- 🥉 F1 score of 79.650 ranked the 5th place / 19 teams in Private LB
+- ✨ Exact Match score of 66.670 ranked 10th place / 19 teams in Private LB
+- Duration: Nov 2021
 
 ## Quantitative Finance Projects
 
 ### [Stock Price Prediction Competition @DACON](https://github.com/snoop2head/elastic-stock-prediction)
 
-[🥈 Blog Post](https://snoop2head.github.io/Dacon-Stock-Price-Competition/) | Awarded 2nd place in Dacon's *Stock Price Prediction Competition.*
+[🥈 Blog Post](https://snoop2head.github.io/Dacon-Stock-Price-Competition/) | 2nd place in Dacon's *Stock Price Prediction Competition.*
 
 - Duration: September 2021
 - Role
