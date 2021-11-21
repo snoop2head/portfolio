@@ -1,4 +1,4 @@
-# Portfolio
+# snoop2head's portfolio
 
 **Learn enough to be dangerous to build an idea. Concept it, show it to the world.**
 
@@ -116,11 +116,13 @@ Participated in corporate joint project with Mathpresso for mathematics problems
 
 <img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="150" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg">
 
+---
+
 ## Naver Boostcamp AI Tech Competitions
 
 ### [Face Mask, Age, Gender Classification](https://github.com/boostcampaitech2/image-classification-level1-23)
 
-Identifying 18 classes from given images: classifying Age Range, Biological Sex, Face Mask | [📄 Experiment Record](https://snoop2head.github.io/Mask-Age-Gender-Classification-Competition/)
+Identifying 18 classes from given images: classifying Age Range, Biological Sex, Face Mask | [📄 Experimentation Log](https://snoop2head.github.io/Mask-Age-Gender-Classification-Competition/)
 
 - ✨ F1 Score of 72.6 ranked 32nd / 250 participants in Public LB (Individual)
 - 🥉 F1 Score of 75.7 ranked 11th / 38 teams in Private LB (Team)
@@ -134,7 +136,7 @@ Identifying 18 classes from given images: classifying Age Range, Biological Sex,
 
 ### [KLUE Relation Extraction](https://github.com/boostcampaitech2/klue-level2-nlp-15)
 
-Extracting relations between subject entity and object entity from KLUE Benchmark dataset. | [📄 Blog Post](https://snoop2head.github.io//Relation-Extraction/)
+Extracting relations between subject entity and object entity from KLUE Benchmark dataset. | [📄 Experimentation Log](https://snoop2head.github.io//Relation-Extraction/)
 
 - 🥇 AUPRC score of 83.2 ranked the 1st place / 19 teams in Private LB
 - 🥉 F1 score of 73.9 ranked 3rd place / 19 teams in Private LB
@@ -147,7 +149,7 @@ Extracting relations between subject entity and object entity from KLUE Benchmar
 
 ### [Open Domain Question Answering](https://github.com/boostcampaitech2/mrc-level2-nlp-15)
 
-Retrieving and Extracting answers from the wikipedia texts for the given questions. | [📄 Blog Post](https://snoop2head.github.io/Custom-MRC-Reader/)
+Retrieving and Extracting answers from the wikipedia texts for the given questions. | [📄 Experimentation Log](https://snoop2head.github.io/Custom-MRC-Reader/)
 
 - 🥉 F1 score of 79.7 ranked the 5th place / 19 teams in Private LB
 - ✨ Exact Match score of 66.7 ranked 10th place / 19 teams in Private LB
@@ -216,6 +218,12 @@ Don't miss any concerts for your favorite artists with KakaoTalk Chatbot | [🎹
 
 ## Skillsets
 
+**Data Analysis**
+
+- Data Analysis Library: pandas, numpy
+- Deep Learning: pytorch, transformers
+- Machine Learning: scikit-learn, gensim
+
 **Backend**
 
 - Python / Django - Django ORM, CRUD, OAuth
@@ -234,10 +242,3 @@ Don't miss any concerts for your favorite artists with KakaoTalk Chatbot | [🎹
 - AWS EC2, Google Cloud App Engine
 - AWS S3, RDS (PostgreSQL)
 - AWS Elastic Beanstalk, CodePipeline
-
-**Data Analysis**
-
-- Data Analysis Library: pandas, numpy
-- Machine Learning: scikit-learn, gensim
-- NLP Library: KoNLPy(Mecab, Twitter), soynlp, NLTK
-- Google Cloud APIs: Vision(Object Detection, OCR), Speech-to-Text, Calendar, Spreadsheet, Docs, Translate
