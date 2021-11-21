@@ -6,6 +6,8 @@
 - Email: young_ahn@yonsei.ac.kr
 - Blog: https://snoop2head.github.io/
 
+---
+
 ## Opensource Contribution
 
 ### [docker.github.io](https://github.com/docker/docker.github.io)
@@ -18,11 +20,13 @@ Contributed to source repo for Docker's documentation. | [🐳 Pull Request](htt
   - Backend: Django, Django ORM & PostgreSQL
   - Deployment: Docker, docker-compose
 
+---
+
 ## NLP Projects
 
 ### [KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT)
 
-Utilizing RBERT model structure for KLUE Relation Extraction task. | [📄 Blog Post](https://snoop2head.github.io//Relation-Extraction/)
+Utilizing RBERT model structure for KLUE Relation Extraction task. | [📄 Blog Post with WandB Log](https://snoop2head.github.io/Relation-Extraction-Code/)
 
 - Duration: October 2021
 - Role
@@ -35,7 +39,7 @@ Utilizing RBERT model structure for KLUE Relation Extraction task. | [📄 Blog 
 
 ### [Emotional Poetry Generator: KoGPT-Joong-2](https://github.com/snoop2head/KoGPT-Joong-2)
 
-Finetuned KoGPT-Trinity based on Emotional Instagram Posts(글스타그램) dataset. | [🤗 Huggingface Hub](https://huggingface.co/snoop2head/KoGPT-Joong-2)
+Finetuned KoGPT-Trinity on Emotional Instagram Posts(글스타그램) dataset. | [🤗 Huggingface Hub](https://huggingface.co/snoop2head/KoGPT-Joong-2)
 
 - Duration: November 2021
 - Role
@@ -52,14 +56,14 @@ Finetuned KoGPT-Trinity based on Emotional Instagram Posts(글스타그램) data
 Created Emotional Instagram Posts(글스타그램) dataset. Awarded 3rd place for _2020 SelectStar & National Information Society Agency AI Dataset Competition_.
 
 - Duration: September 2019 ~ March 2020
-- Role: Project Manager, Github Maintainer
+- Role: Project Manager and Github Maintainer
 - Skills
   - Collection: Google Vision API, instagram-crawler
   - Wrangling: pandas
 
 ### [Mathpresso Corporation Joint Project](https://github.com/snoop2head/Mathpresso_Classification)
 
-[📄 Presentation](https://github.com/snoop2head/Mathpresso_Classification/blob/main/YBIGTA_%EB%A7%A4%EC%93%B0%ED%94%84%EB%A0%88%EC%86%8C_%EB%AA%BD%EB%8D%B0%EC%9D%B4%ED%81%AC_Final.pdf) | Participated in corporate joint project with Mathpresso for mathematics problems classification task.
+Participated in corporate joint project with Mathpresso for mathematics problems classification task. | [📄 Presentation](https://github.com/snoop2head/Mathpresso_Classification/blob/main/YBIGTA_%EB%A7%A4%EC%93%B0%ED%94%84%EB%A0%88%EC%86%8C_%EB%AA%BD%EB%8D%B0%EC%9D%B4%ED%81%AC_Final.pdf)
 
 - Duration: November 2020 ~ December 2020
 - Role
@@ -68,6 +72,7 @@ Created Emotional Instagram Posts(글스타그램) dataset. Awarded 3rd place fo
 - Skills
   - Wrangling: pandas, numpy
 
+---
 
 ## Web Projects
 
@@ -78,7 +83,11 @@ Created Emotional Instagram Posts(글스타그램) dataset. Awarded 3rd place fo
 <img height="300" width="200" alt="image" src="./images/yonsei_exchange1.png"><img height="300" width="250" alt="image" src="./images/yonsei_exchange2.png"><img height="300" width="250" alt="image" src="./images/yonsei_exchange3.png">
 
 - Duration: Sep 2019 ~
-- Role: Collected and refined review text data. Sentiment Analysis with pretrained BERT model on NSMC corpus, Clustered universities with K-means clustering,
+- Role
+  - Collected and refined review text data. 
+  - Sentiment Analysis with pretrained BERT model on NSMC corpus
+  - Clustered universities with K-means clustering
+
 - Skills
   - Sentiment Analysis: BERT & transformers
   - Clustering: scikit-learn, matplotlib
@@ -95,7 +104,10 @@ Created Emotional Instagram Posts(글스타그램) dataset. Awarded 3rd place fo
 [🏋️‍♂️ Demo Video](https://youtu.be/kef0CxzMANo?t=38) | Built an website that retrieves adaquate exercise based on the input sentence.
 
 - Duration: Feb 2020 ~ May 2020
-- Role: Built recommendation algorithm, Fullstack web development
+- Role
+  - Built retrieval algorithm with TFIDF
+  - Fullstack web development
+
 - Skills
   - Backend: Django, Django ORM & PostgreSQL
   - Client: Sass, Tailwind, HTML5
@@ -108,27 +120,46 @@ Created Emotional Instagram Posts(글스타그램) dataset. Awarded 3rd place fo
 
 ### [Face Mask, Age, Gender Classification](https://github.com/boostcampaitech2/image-classification-level1-23)
 
-Identifying 18 classes from given images: classifying Age Range, Biological Sex, Face Mask
+Identifying 18 classes from given images: classifying Age Range, Biological Sex, Face Mask | [📄 Experiment Record](https://snoop2head.github.io/Mask-Age-Gender-Classification-Competition/)
 
-- ✨ Individual Rank: 32nd / 250 participants in Public LB
-- 🥉 Team Rank: 11th / 38 teams in Private LB
+- ✨ F1 Score of 72.6 ranked 32nd / 250 participants in Public LB (Individual)
+- 🥉 F1 Score of 75.7 ranked 11th / 38 teams in Private LB (Team)
+
 - Duration: Sep 2021
+- Role
+  - Within the first week, has set up optimal combination by experimenting 7 backbone models, 3 loss criteria and 3 optimizers.
+  - Created additional dataset with labels(age, sex, mask) to resolve class imbalance.
+  - Cropped facial characteristics with MTCNN and RetinaFace to reduce noise in the image.
+
 
 ### [KLUE Relation Extraction](https://github.com/boostcampaitech2/klue-level2-nlp-15)
 
-Extracting relations between subject entity and object entity from KLUE Benchmark dataset.
+Extracting relations between subject entity and object entity from KLUE Benchmark dataset. | [📄 Blog Post](https://snoop2head.github.io//Relation-Extraction/)
 
 - 🥇 AUPRC score of 83.2 ranked the 1st place / 19 teams in Private LB
 - 🥉 F1 score of 73.9 ranked 3rd place / 19 teams in Private LB
+
 - Duration: Oct 2021
+- Role
+  - Combinated pretrained models, losses and optimizers to boost performance (f1: 0.670 ➡ f1: 0.705)
+  - Adapted RBERT structure to boost performance (f1: 0.733 ➡ f1: 0.745)
+  - Optimized soft voting ensemble strategy by adopting different saving criterion for each models.
 
 ### [Open Domain Question Answering](https://github.com/boostcampaitech2/mrc-level2-nlp-15)
 
-Retrieving and Extracting answers from the wikipedia texts for the given questions.
+Retrieving and Extracting answers from the wikipedia texts for the given questions. | [📄 Blog Post](https://snoop2head.github.io/Custom-MRC-Reader/)
 
-- 🥉 F1 score of 79.650 ranked the 5th place / 19 teams in Private LB
-- ✨ Exact Match score of 66.670 ranked 10th place / 19 teams in Private LB
+- 🥉 F1 score of 79.7 ranked the 5th place / 19 teams in Private LB
+- ✨ Exact Match score of 66.7 ranked 10th place / 19 teams in Private LB
+
 - Duration: Nov 2021
+- Role
+  - Customized extractive machine reading model by attaching bidirectional LSTM head to the backbone transformers model.
+  - Divided precision benchmark into 1) start token prediction accuracy and 2) end token prediction accuracy.
+  - Compared performances accross learning rates, optimizers and loss critera. 
+
+
+---
 
 ## Quantitative Finance Projects
 
@@ -149,7 +180,7 @@ Retrieving and Extracting answers from the wikipedia texts for the given questio
 
 ### [Korean Spinoff Event Tracker](https://github.com/snoop2head/spinoff_hunter_kor)
 
-[🧩 Dataset Demo](https://docs.google.com/spreadsheets/d/1chJ2NKHVc0gKjsMaQI1UHEPxdjneV1ZWaTGHseQvxP4/edit?usp=sharing) | Get financial data of public companies involved in spinoff events on Google Spreadsheet
+Get financial data of public companies involved in spinoff events on Google Spreadsheet | [🧩 Dataset Demo](https://docs.google.com/spreadsheets/d/1chJ2NKHVc0gKjsMaQI1UHEPxdjneV1ZWaTGHseQvxP4/edit?usp=sharing)
 
 - Duration: June 2020
 - Role: Crawl Data, Wrangle Financial Dataset, Display on Google Sheets
@@ -157,7 +188,7 @@ Retrieving and Extracting answers from the wikipedia texts for the given questio
   - Collection: BeautifulSoup4
   - Wrangling: pandas
 
-### [Covid19](https://github.com/Rank23/COVID19)
+### [Covid19 Confirmed Cases Prediction](https://github.com/Rank23/COVID19)
 
 Predict the spread of COVID-19 in early stage after its entrance to country.
 
@@ -167,17 +198,21 @@ Predict the spread of COVID-19 in early stage after its entrance to country.
   - Wrangling: pandas
 - Precision | Results: ±5% accuracy for one-day prediction, ±10% accuracy for 30-day prediction for South Korean cases.
 
+---
+
 ## Chatbots
 
 ### [Indigo](https://github.com/snoop2head/indigo)
 
-[🎹 YouTube Demo](https://www.youtube.com/watch?v=uIOWqumaOD4) | Don't miss any concerts for your favorite artists with KakaoTalk Chatbot
+Don't miss any concerts for your favorite artists with KakaoTalk Chatbot | [🎹 YouTube Demo](https://www.youtube.com/watch?v=uIOWqumaOD4)
 
 - Duration: July 2019 ~ August 2019
 - Role: Created API server for KakaoTalk chatbot, Visualized concert schedules on user's Google Calendar, Created / Updated events in Google Calendar.
 - Skills
   - Backend: Flask, Pymongo & MongoDB
   - Deployment: AWS EC2
+
+---
 
 ## Skillsets
 
