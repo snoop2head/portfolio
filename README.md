@@ -8,69 +8,107 @@
 
 ---
 
-## Opensource Contribution
+## Multimodal Projects
 
-### [docker.github.io](https://github.com/docker/docker.github.io)
+### [KoDALLE: Text to Fashion](https://github.com/KR-HappyFace/KoDALLE)
 
-Contributed to source repo for Docker's documentation. | [🐳 Pull Request](https://github.com/docker/docker.github.io/pull/10624)
+![image-20211227151557604](https://github.com/KR-HappyFace/KoDALLE/raw/main/assets/README/image-20211227151557604.png)
 
-- Duration: March 2020 ~ April 2020
-- Role: Updated PostgreSQL initialization for "Quickstart: dockerizing django" documentation.
+**Generating dress outfit images based on given input text** | [🤗 Huggingface Demo](https://github.com/KR-HappyFace/KoDALLE)
+
+- Role
+  - Created training pipeline from VQGAN through DALLE.
+  - Constructed inference pipeline from VQGAN through DALLE.
+  - Maintained versions and preprocessed 1 million pairs of image-caption dataset.
+  - Established live demo for the KoDALLE on Huggingface Space.
 - Skills
-  - Backend: Django, Django ORM & PostgreSQL
-  - Deployment: Docker, docker-compose
+  - DALLE: transformers, torch
+  - VQGAN: torch, torchvision
+  - Backend demo server: fastapi
 
 ---
 
-## NLP Projects
+## Natural Language Processing Projects
 
 ### [KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT)
 
-Utilizing RBERT model structure for KLUE Relation Extraction task. | [📄 Blog Post with WandB Log](https://snoop2head.github.io/Relation-Extraction-Code/)
+**Extracting relations between subject and object entity in KLUE Benchmark dataset**  | [📈 Blog Post](https://snoop2head.github.io/Relation-Extraction-Code/)
 
-- Duration: October 2021
 - Role
-  - Creating custom dataset in pytorch
-  - Finetuning klue/roberta-large with custom trainer in pytorch
-  - Inferencing with pytorch
+  - **Finetuned RoBERTa model according to RBERT structure in pytorch.** 
+  - Composed custom dataset, trainer, inference code in pytorch.
+  - Applied stratified k-fold cross validation for the custom trainer.
 - Skills
-  - Relation Extraction: transformers, pytorch
+  - Relation Extraction: transformers, torch
   - Wrangling: pandas, numpy
 
-### [Emotional Poetry Generator: KoGPT-Joong-2](https://github.com/snoop2head/KoGPT-Joong-2)
+### [Conditional Generation with KoGPT](https://github.com/snoop2head/KoGPT-Joong-2)
 
-Finetuned KoGPT-Trinity on Emotional Instagram Posts(글스타그램) dataset. | [🤗 Huggingface Hub](https://huggingface.co/snoop2head/KoGPT-Joong-2)
+**Sentence generation with KoGPT-Trinity according to given emotional condition** | [🤗 Huggingface Demo](https://huggingface.co/spaces/snoop2head/KoGPT-Conditional-Generation)
 
-- Duration: November 2021
 - Role
-  - Creating custom dataset in pytorch
-  - Finetuning KoGPT-Trinity with huggingface trainer
-  - Inferencing with pytorch
-  - Maintaining huggingface hub hosted model
+  - **Finetuned KoGPT-Trinity with huggingface trainer with conditional emotion labels.**
+  - Created conditional emotion dataset and inference code in pytorch.
+  - Maintained huggingface hosted model and live demo.
 - Skills
-  - Generation: transformers, pytorch
+  - Generation: transformers, torch
   - Wrangling: pandas, numpy
 
 ### [Emotional Instagram Posts(글스타그램) Dataset](https://github.com/Keracorn/geulstagram)
 
-Created Emotional Instagram Posts(글스타그램) dataset. Awarded 3rd place for _2020 SelectStar & National Information Society Agency AI Dataset Competition_.
+**Created Emotional Instagram Posts(글스타그램) dataset** | [📄 Presentation](https://github.com/Keracorn/geulstagram/blob/master/README.pdf)
 
-- Duration: September 2019 ~ March 2020
-- Role: Project Manager and Github Maintainer
+- Role
+  - **Constructed Emotional Instagram Posts(Geulstagram) Dataset.**
+  - Converted Korean text on image file to text file using Google Cloud Vision API.
+  - Managed pull request / version control for the project Github Repository.
+
 - Skills
   - Collection: Google Vision API, instagram-crawler
   - Wrangling: pandas
 
 ### [Mathpresso Corporation Joint Project](https://github.com/snoop2head/Mathpresso_Classification)
 
-Participated in corporate joint project with Mathpresso for mathematics problems classification task. | [📄 Presentation](https://github.com/snoop2head/Mathpresso_Classification/blob/main/YBIGTA_%EB%A7%A4%EC%93%B0%ED%94%84%EB%A0%88%EC%86%8C_%EB%AA%BD%EB%8D%B0%EC%9D%B4%ED%81%AC_Final.pdf)
+**Corporate joint project for mathematics problems classification task** | [📄 Presentation](https://github.com/snoop2head/Mathpresso_Classification/blob/main/YBIGTA_%EB%A7%A4%EC%93%B0%ED%94%84%EB%A0%88%EC%86%8C_%EB%AA%BD%EB%8D%B0%EC%9D%B4%ED%81%AC_Final.pdf)
 
-- Duration: November 2020 ~ December 2020
 - Role
-  - Preprocessed Korean mathematics problems dataset based on EDA.
+  - **Preprocessed Korean mathematics problems dataset based on EDA.**
   - Maintained version of preprocessing module on Github.
-- Skills
-  - Wrangling: pandas, numpy
+- Skills: pandas, numpy
+
+---
+
+## Computer Vision Projects
+
+### [Realtime Turtleneck Prevention](https://github.com/snoop2head/ml_classification_tutorial)
+
+**Real-time desk posture detection through webcam** | [📷 Demo Video](https://www.youtube.com/watch?v=6z_TJaj71io&t=459s)
+
+- Role
+  - **Created real-time detection window using opencv-python.**
+  - Converted image dataset into Yaw/Pitch/Roll numerical dataset using RetinaFace model.
+  - Trained and hypertuned random forest classification model with precision rate of 93%.
+- Skills: opencv-python, scikit-learn
+
+### [ELimNet](https://github.com/snoop2head/ELimNet)
+
+**Elimination based Lightweight Neural Net with Pretrained Weights** | [📈 WandB Log](https://wandb.ai/elimnet/ElimNet)
+
+- Role
+  - **Constructed lightweight CNN model with less than 1M #params** by removing top layers from pretrained CNN models.
+  - Assessed on Trash Annotations in Context(TACO) Dataset sampled for 6 classes with 20,851 images.
+  - Compared metrics accross VGG11, MobileNetV3 and EfficientNetB0.
+- Skills: torch, torchvision, wandb
+
+### [Face Mask, Age, Gender Classification in Naver Boostcamp](https://github.com/boostcampaitech2/image-classification-level1-23)
+
+Identifying 18 classes from given images: classifying Age Range, Biological Sex, Face Mask | [📄 Experimentation Log](https://snoop2head.github.io/Mask-Age-Gender-Classification-Competition/)
+
+- Role
+  - **Optimized combination of backbone models, losses and optimizers.**
+  - Created additional dataset with labels(age, sex, mask) to resolve class imbalance.
+  - Cropped facial characteristics with MTCNN and RetinaFace to reduce noise in the image.
+- Skills: torch, torchvision, timm
 
 ---
 
@@ -78,35 +116,34 @@ Participated in corporate joint project with Mathpresso for mathematics problems
 
 ### [Exchange Program Overview Website](https://github.com/snoop2head/yonsei-exchange-program)
 
-[✈️ Website Demo](https://yonsei-exchange.netlify.app/) | Built an website that shows the overview of each foreign exchange universities' information based on Yonsei University students' text data.
+**Overview for student life in foreign universities** | [✈️ Website Demo](https://yonsei-exchange.netlify.app/)
 
 <img height="300" width="200" alt="image" src="./images/yonsei_exchange1.png"><img height="300" width="250" alt="image" src="./images/yonsei_exchange2.png"><img height="300" width="250" alt="image" src="./images/yonsei_exchange3.png">
 
-- Duration: Sep 2019 ~
+- KPIs
+  - **6000 Pageviews within 6 Months**
+  - **4 minutes+ of Average Retention Time**
 - Role
-  - Collected and refined review text data. 
-  - Sentiment Analysis with pretrained BERT model on NSMC corpus
-  - Clustered universities with K-means clustering
-
+  - Collected and preprocessed 11200 text review data from the Yonsei website.
+  - Visualized department distribution and weather information using matplotlib.
+  - Sentiment analysis on satisfaction level for foreign universities with pretrained BERT model.
+  - Clustered universities with provided curriculum with K-means clustering.
 - Skills
-  - Sentiment Analysis: BERT & transformers
+  - Wrangling: pandas, numpy, statistic
   - Clustering: scikit-learn, matplotlib
   - Summarizing: textrankr, konlpy, soynlp
-  - Wrangling: pandas, numpy, statistic
   - Web: Gatsby.js, GraphQL, Netlify
-- Side Notes
-  - 6000 Pageviews within 6 Months
-  - 4 minutes+ of Average Retention Time
 
 
 ### [fitcuration website](https://github.com/snoop2head/fitcuration-django)
 
-[🏋️‍♂️ Demo Video](https://youtu.be/kef0CxzMANo?t=38) | Built an website that retrieves adaquate exercise based on the input sentence.
+**Search-based exercise retrieval web service** | [🏋️‍♂️ Demo Video](https://youtu.be/kef0CxzMANo?t=38)
 
-- Duration: Feb 2020 ~ May 2020
 - Role
-  - Built retrieval algorithm with TFIDF
-  - Fullstack web development
+  - **Built retrieval algorithm based on search keyword using TF-IDF.**
+  - Deployed website using Docker, AWS RDS, AWS S3, AWS EBS
+  - Constructed backend using Django, Django ORM & PostgreSQL.
+  - Composed client-side using Sass, Tailwind, HTML5.
 
 - Skills
   - Backend: Django, Django ORM & PostgreSQL
@@ -116,50 +153,6 @@ Participated in corporate joint project with Mathpresso for mathematics problems
 
 <img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="150" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg">
 
----
-
-## Naver Boostcamp AI Tech Competitions
-
-### [Face Mask, Age, Gender Classification](https://github.com/boostcampaitech2/image-classification-level1-23)
-
-Identifying 18 classes from given images: classifying Age Range, Biological Sex, Face Mask | [📄 Experimentation Log](https://snoop2head.github.io/Mask-Age-Gender-Classification-Competition/)
-
-- ✨ F1 Score of 72.6 ranked 32nd / 250 participants in Public LB (Individual)
-- 🥉 F1 Score of 75.7 ranked 11th / 38 teams in Private LB (Team)
-
-- Duration: Sep 2021
-- Role
-  - Within the first week, has set up optimal combination by experimenting 7 backbone models, 3 loss criteria and 3 optimizers.
-  - Created additional dataset with labels(age, sex, mask) to resolve class imbalance.
-  - Cropped facial characteristics with MTCNN and RetinaFace to reduce noise in the image.
-
-
-### [KLUE Relation Extraction](https://github.com/boostcampaitech2/klue-level2-nlp-15)
-
-Extracting relations between subject entity and object entity from KLUE Benchmark dataset. | [📄 Experimentation Log](https://snoop2head.github.io//Relation-Extraction/)
-
-- 🥇 AUPRC score of 83.2 ranked the 1st place / 19 teams in Private LB
-- 🥉 F1 score of 73.9 ranked 3rd place / 19 teams in Private LB
-
-- Duration: Oct 2021
-- Role
-  - Combinated pretrained models, losses and optimizers to boost performance (f1: 0.670 ➡ f1: 0.705)
-  - Adapted RBERT structure to boost performance (f1: 0.733 ➡ f1: 0.745)
-  - Optimized soft voting ensemble strategy by adopting different saving criterion for each models.
-
-### [Open Domain Question Answering](https://github.com/boostcampaitech2/mrc-level2-nlp-15)
-
-Retrieving and Extracting answers from the wikipedia texts for the given questions. | [📄 Experimentation Log](https://snoop2head.github.io/Custom-MRC-Reader/)
-
-- 🥉 F1 score of 79.7 ranked the 5th place / 19 teams in Private LB
-- ✨ Exact Match score of 66.7 ranked 10th place / 19 teams in Private LB
-
-- Duration: Nov 2021
-- Role
-  - Customized extractive machine reading model by attaching bidirectional LSTM head to the backbone transformers model.
-  - Divided precision benchmark into 1) start token prediction accuracy and 2) end token prediction accuracy.
-  - Compared performances accross learning rates, optimizers and loss critera. 
-
 
 ---
 
@@ -167,12 +160,11 @@ Retrieving and Extracting answers from the wikipedia texts for the given questio
 
 ### [Stock Price Prediction Competition @DACON](https://github.com/snoop2head/elastic-stock-prediction)
 
-[🥈 Blog Post](https://snoop2head.github.io/Dacon-Stock-Price-Competition/) | 2nd place in Dacon's *Stock Price Prediction Competition.*
+**Top 5% in Dacon's *Stock Price Prediction Competition*** | [🥈 Blog Post](https://snoop2head.github.io/Dacon-Stock-Price-Competition/)
 
-- Duration: September 2021
 - Role
+  - **Validated the model's performance according to different periods** for the sake of robustness.
   - Applied cross validation by using ElasticNetCV model.
-  - Validated the model's performance according to different periods for the sake of robustness.
   - Completed the model's inference for the evaluation period.
   - Tested ARIMA, RandomforestRegressor and ElasticNetCV.
 - Skills
@@ -184,35 +176,59 @@ Retrieving and Extracting answers from the wikipedia texts for the given questio
 
 Get financial data of public companies involved in spinoff events on Google Spreadsheet | [🧩 Dataset Demo](https://docs.google.com/spreadsheets/d/1chJ2NKHVc0gKjsMaQI1UHEPxdjneV1ZWaTGHseQvxP4/edit?usp=sharing)
 
-- Duration: June 2020
 - Role: Crawl Data, Wrangle Financial Dataset, Display on Google Sheets
 - Skills
   - Collection: BeautifulSoup4
   - Wrangling: pandas
 
-### [Covid19 Confirmed Cases Prediction](https://github.com/Rank23/COVID19)
+---
 
-Predict the spread of COVID-19 in early stage after its entrance to country.
+## Opensource Contributions
 
-- Duration: February 2020 ~ March 2020
-- Role: Fixed existing errors on Github Repository, Wrote footnotes in both English and Korean.
+### [docker/docker.github.io](https://github.com/docker/docker.github.io)
+
+**Updated PostgreSQL initialization for "Quickstart: dockerizing django" documentation** | [🐳 Pull Request](https://github.com/docker/docker.github.io/pull/10624)
+
+- Duration: March 2020 ~ April 2020
 - Skills
-  - Wrangling: pandas
-- Precision | Results: ±5% accuracy for one-day prediction, ±10% accuracy for 30-day prediction for South Korean cases.
+  - Backend: Django, Django ORM & PostgreSQL
+  - Deployment: Docker, docker-compose
+
+### [NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch)
+
+**Fixed torch version comparison fallback error for source repo of NVIDIA Research** | [✍️ Pull Request](https://github.com/NVlabs/stylegan2-ada-pytorch/pull/197)
+
+- Duration: November 2020
+- Skills: torch, torchvision
 
 ---
 
-## Chatbots
+## ETC
 
 ### [Indigo](https://github.com/snoop2head/indigo)
 
-Don't miss any concerts for your favorite artists with KakaoTalk Chatbot | [🎹 YouTube Demo](https://www.youtube.com/watch?v=uIOWqumaOD4)
+**Don't miss concerts for your favorite artists with KakaoTalk Chatbot** | [📷 Demo Video](https://www.youtube.com/watch?v=uIOWqumaOD4)
 
-- Duration: July 2019 ~ August 2019
-- Role: Created API server for KakaoTalk chatbot, Visualized concert schedules on user's Google Calendar, Created / Updated events in Google Calendar.
+- Role
+  - Created API server for KakaoTalk chatbot
+  - Visualized concert schedules on user's Google Calendar
+  - Created / Updated events in Google Calendar.
 - Skills
   - Backend: Flask, Pymongo & MongoDB
   - Deployment: AWS EC2
+
+### [Covid19 Confirmed Cases Prediction](https://github.com/Rank23/COVID19)
+
+**Predict the spread of COVID-19 in early stage after its entrance to country.**
+
+- Role
+  - Fixed existing errors on Github Repository.
+  - Wrote footnotes in both English and Korean.
+- Skills
+  - Wrangling: pandas
+- Precision and Results
+  - ±5% accuracy for one-day prediction.
+  - ±10% accuracy for 30-day prediction.
 
 ---
 
