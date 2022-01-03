@@ -32,7 +32,7 @@
 
 ### [KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT)
 
-**Extracting relations between subject and object entity in KLUE Benchmark dataset**  | [📈 Blog Post](https://snoop2head.github.io/Relation-Extraction-Code/)
+**Extracting relations between subject and object entity in KLUE Benchmark dataset**  | [✍️ Blog Post](https://snoop2head.github.io/Relation-Extraction-Code/)
 
 - Role
   - **Finetuned RoBERTa model according to RBERT structure in pytorch.** 
@@ -66,6 +66,18 @@
 - Skills
   - Collection: Google Vision API, instagram-crawler
   - Wrangling: pandas
+
+### [Machine Reading Comprehension in Naver Boostcamp](https://snoop2head.github.io/Custom-MRC-Reader/)
+
+**Retrieved and extracted answers from wikipedia texts for given question** | [✍️ Blog Post](https://snoop2head.github.io/Custom-MRC-Reader/)
+
+- Role
+  - **Attached bidirectional LSTM layers to the backbone transformers model to extract answers.**
+  - **Divided precision benchmark into start token prediction acc and end token prediction acc.**
+  - Compared performances accross learning rates, optimizers and loss critera.
+- Skills
+  - Extractive Reader: transformers, torch
+  - Wrangling: pandas, numpy
 
 ### [Mathpresso Corporation Joint Project](https://github.com/snoop2head/Mathpresso_Classification)
 
@@ -160,7 +172,7 @@ Identifying 18 classes from given images: classifying Age Range, Biological Sex,
 
 ### [Stock Price Prediction Competition @DACON](https://github.com/snoop2head/elastic-stock-prediction)
 
-**Top 5% in Dacon's *Stock Price Prediction Competition*** | [🥈 Blog Post](https://snoop2head.github.io/Dacon-Stock-Price-Competition/)
+**Top 5% in Dacon's *Stock Price Prediction Competition*** | [✍️ Blog Post](https://snoop2head.github.io/Dacon-Stock-Price-Competition/)
 
 - Role
   - **Validated the model's performance according to different periods** for the sake of robustness.
