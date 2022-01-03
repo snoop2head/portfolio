@@ -12,9 +12,9 @@
 
 ### [KoDALLE: Text to Fashion](https://github.com/KR-HappyFace/KoDALLE)
 
-![image-20211227151557604](https://github.com/KR-HappyFace/KoDALLE/raw/main/assets/README/image-20211227151557604.png)
+[![image-20211227151557604](https://github.com/KR-HappyFace/KoDALLE/raw/main/assets/README/image-20211227151557604.png)](https://github.com/KR-HappyFace/KoDALLE)
 
-**Generating dress outfit images based on given input text** | [🤗 Huggingface Demo](https://github.com/KR-HappyFace/KoDALLE)
+**Generating dress outfit images based on given input text** | [🤗 Huggingface Demo](https://huggingface.co/spaces/happyface/KoDALLE)
 
 - Role
   - Created training pipeline from VQGAN through DALLE.
