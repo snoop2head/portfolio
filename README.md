@@ -31,7 +31,7 @@
 
 ## Natural Language Processing Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT){:target="_blank"}
 
 **Extracting relations between subject and object entity in KLUE Benchmark dataset**  | [✍️ Blog Post](https://snoop2head.github.io/Relation-Extraction-Code/)
 
