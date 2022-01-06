@@ -10,8 +10,7 @@
 
 ## Multimodal Projects
 
-
-### <a href="#" onclick='window.open("https://github.com/KR-HappyFace/KoDALLE");return false;'><img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion</a>
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion](https://github.com/KR-HappyFace/KoDALLE)
 
 [![image-20211227151557604](https://github.com/KR-HappyFace/KoDALLE/raw/main/assets/README/image-20211227151557604.png)](https://github.com/KR-HappyFace/KoDALLE)
 
@@ -31,7 +30,7 @@
 
 ## Natural Language Processing Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT){:target="_blank"}
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT)
 
 **Extracting relations between subject and object entity in KLUE Benchmark dataset**  | [✍️ Blog Post](https://snoop2head.github.io/Relation-Extraction-Code/)
 
