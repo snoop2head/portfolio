@@ -10,7 +10,7 @@
 
 ## Multimodal Projects
 
-### [:octocat: KoDALLE: Text to Fashion](https://github.com/KR-HappyFace/KoDALLE)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">KoDALLE: Text to Fashion](https://github.com/KR-HappyFace/KoDALLE)
 
 [![image-20211227151557604](https://github.com/KR-HappyFace/KoDALLE/raw/main/assets/README/image-20211227151557604.png)](https://github.com/KR-HappyFace/KoDALLE)
 
@@ -30,7 +30,7 @@
 
 ## Natural Language Processing Projects
 
-### [:octocat: KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT)
 
 **Extracting relations between subject and object entity in KLUE Benchmark dataset**  | [✍️ Blog Post](https://snoop2head.github.io/Relation-Extraction-Code/)
 
@@ -42,7 +42,7 @@
   - Relation Extraction: transformers, torch
   - Wrangling: pandas, numpy
 
-### [:octocat: Conditional Generation with KoGPT](https://github.com/snoop2head/KoGPT-Joong-2)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">Conditional Generation with KoGPT](https://github.com/snoop2head/KoGPT-Joong-2)
 
 **Sentence generation with given emotion conditions** | [🤗 Huggingface Demo](https://huggingface.co/spaces/snoop2head/KoGPT-Conditional-Generation)
 
@@ -54,7 +54,7 @@
   - Generation: transformers, torch
   - Wrangling: pandas, numpy
 
-### [:octocat: Emotional Instagram Posts(글스타그램) Dataset](https://github.com/Keracorn/geulstagram)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">Emotional Instagram Posts(글스타그램) Dataset](https://github.com/Keracorn/geulstagram)
 
 **Created Emotional Instagram Posts(글스타그램) dataset** | [📄 Presentation](https://github.com/Keracorn/geulstagram/blob/master/README.pdf)
 
@@ -65,7 +65,7 @@
   - Collection: Google Vision API, instagram-crawler
   - Wrangling: pandas
 
-### [:octocat: Machine Reading Comprehension in Naver Boostcamp](https://snoop2head.github.io/Custom-MRC-Reader/)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">Machine Reading Comprehension in Naver Boostcamp](https://snoop2head.github.io/Custom-MRC-Reader/)
 
 **Retrieved and extracted answers from wikipedia texts for given question** | [✍️ Blog Post](https://snoop2head.github.io/Custom-MRC-Reader/)
 
@@ -77,7 +77,7 @@
   - Extractive Reader: transformers, torch
   - Wrangling: pandas, numpy
 
-### [:octocat: Mathpresso Corporation Joint Project](https://github.com/snoop2head/Mathpresso_Classification)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">Mathpresso Corporation Joint Project](https://github.com/snoop2head/Mathpresso_Classification)
 
 **Corporate joint project for mathematics problems classification task** | [📄 Presentation](https://github.com/snoop2head/Mathpresso_Classification/blob/main/YBIGTA_%EB%A7%A4%EC%93%B0%ED%94%84%EB%A0%88%EC%86%8C_%EB%AA%BD%EB%8D%B0%EC%9D%B4%ED%81%AC_Final.pdf)
 
@@ -90,7 +90,7 @@
 
 ## Computer Vision Projects
 
-### [:octocat: Realtime Turtleneck Prevention](https://github.com/snoop2head/ml_classification_tutorial)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">Realtime Turtleneck Prevention](https://github.com/snoop2head/ml_classification_tutorial)
 
 **Real-time desk posture detection through webcam** | [📷 Demo Video](https://www.youtube.com/watch?v=6z_TJaj71io&t=459s)
 
@@ -100,9 +100,9 @@
   - Trained and optimized random forest classification model with precision rate of 93%.
 - Skills: opencv-python, scikit-learn
 
-### [:octocat: ELimNet](https://github.com/snoop2head/ELimNet)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">ELimNet](https://github.com/snoop2head/ELimNet)
 
-**Elimination based Lightweight Neural Net with Pretrained Weights** | [📈 WandB Log](https://wandb.ai/elimnet/ElimNet)
+**Elimination based Lightweight Neural Net with Pretrained Weights** | [📄 Presentation](https://github.com/snoop2head/ELimNet/blob/main/README.pdf)
 
 - Role
   - **Constructed lightweight CNN model with less than 1M #params** by removing top layers from pretrained CNN models.
@@ -110,9 +110,9 @@
   - Compared metrics accross VGG11, MobileNetV3 and EfficientNetB0.
 - Skills: torch, torchvision, wandb
 
-### [:octocat: Face Mask, Age, Gender Classification in Naver Boostcamp](https://github.com/boostcampaitech2/image-classification-level1-23)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">Face Mask, Age, Gender Classification in Naver Boostcamp](https://github.com/boostcampaitech2/image-classification-level1-23)
 
-Identifying 18 classes from given images: Age Range(3 classes), Biological Sex(2 classes), Face Mask(3 classes) | [📄 Experimentation Log](https://snoop2head.github.io/Mask-Age-Gender-Classification-Competition/)
+Identifying 18 classes from given images: Age Range(3 classes), Biological Sex(2 classes), Face Mask(3 classes) | [✍️ Blog Post](https://snoop2head.github.io/Mask-Age-Gender-Classification-Competition/)
 
 - Role
   - **Optimized combination of backbone models, losses and optimizers.**
@@ -124,7 +124,7 @@ Identifying 18 classes from given images: Age Range(3 classes), Biological Sex(2
 
 ## Web Projects
 
-### [:octocat: Exchange Program Overview Website](https://github.com/snoop2head/yonsei-exchange-program)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">Exchange Program Overview Website](https://github.com/snoop2head/yonsei-exchange-program)
 
 **Overview for student life in foreign universities** | [✈️ Website Demo](https://yonsei-exchange.netlify.app/)
 
@@ -145,9 +145,9 @@ Identifying 18 classes from given images: Age Range(3 classes), Biological Sex(2
   - Web: Gatsby.js, GraphQL, Netlify
 
 
-### [:octocat: fitcuration website](https://github.com/snoop2head/fitcuration-django)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">fitcuration website](https://github.com/snoop2head/fitcuration-django)
 
-**Search-based exercise retrieval web service** | [🏋️‍♂️ Demo Video](https://youtu.be/kef0CxzMANo?t=38)
+**Search-based exercise retrieval web service** | [📷 Demo Video](https://youtu.be/kef0CxzMANo?t=38)
 
 - Role
   - **Built retrieval algorithm based on search keyword using TF-IDF.**
@@ -168,7 +168,7 @@ Identifying 18 classes from given images: Age Range(3 classes), Biological Sex(2
 
 ## Quantitative Finance Projects
 
-### [:octocat: Stock Price Prediction Competition @DACON](https://github.com/snoop2head/elastic-stock-prediction)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">Stock Price Prediction Competition @DACON](https://github.com/snoop2head/elastic-stock-prediction)
 
 **Top 5% in Dacon's *Stock Price Prediction Competition*** | [✍️ Blog Post](https://snoop2head.github.io/Dacon-Stock-Price-Competition/)
 
@@ -182,7 +182,7 @@ Identifying 18 classes from given images: Age Range(3 classes), Biological Sex(2
   - Quantitative Finance: ta-lib, finance-datareader
   - Wrangling: pandas, numpy
 
-### [:octocat: Korean Spinoff Event Tracker](https://github.com/snoop2head/spinoff_hunter_kor)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">Korean Spinoff Event Tracker](https://github.com/snoop2head/spinoff_hunter_kor)
 
 Get financial data of public companies involved in spinoff events on Google Spreadsheet | [🧩 Dataset Demo](https://docs.google.com/spreadsheets/d/1chJ2NKHVc0gKjsMaQI1UHEPxdjneV1ZWaTGHseQvxP4/edit?usp=sharing)
 
@@ -195,7 +195,7 @@ Get financial data of public companies involved in spinoff events on Google Spre
 
 ## Opensource Contributions
 
-### [:octocat: docker/docker.github.io](https://github.com/docker/docker.github.io)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">docker/docker.github.io](https://github.com/docker/docker.github.io)
 
 **Updated PostgreSQL initialization for "Quickstart: dockerizing django" documentation** | [🐳 Pull Request](https://github.com/docker/docker.github.io/pull/10624)
 
@@ -204,7 +204,7 @@ Get financial data of public companies involved in spinoff events on Google Spre
   - Backend: Django, Django ORM & PostgreSQL
   - Deployment: Docker, docker-compose
 
-### [:octocat: NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch)
 
 **Fixed torch version comparison fallback error for source repo of NVIDIA Research** | [✍️ Pull Request](https://github.com/NVlabs/stylegan2-ada-pytorch/pull/197)
 
@@ -215,7 +215,7 @@ Get financial data of public companies involved in spinoff events on Google Spre
 
 ## ETC
 
-### [:octocat: Indigo](https://github.com/snoop2head/indigo)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">Indigo](https://github.com/snoop2head/indigo)
 
 **Don't miss concerts for your favorite artists with KakaoTalk Chatbot** | [📷 Demo Video](https://www.youtube.com/watch?v=uIOWqumaOD4)
 
@@ -227,7 +227,7 @@ Get financial data of public companies involved in spinoff events on Google Spre
   - Backend: Flask, Pymongo & MongoDB
   - Deployment: AWS EC2
 
-### [:octocat: Covid19 Confirmed Cases Prediction](https://github.com/Rank23/COVID19)
+### [<img width="24" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">Covid19 Confirmed Cases Prediction](https://github.com/Rank23/COVID19)
 
 **Predict the spread of COVID-19 in early stage after its entrance to country.**
 
