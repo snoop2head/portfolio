@@ -10,16 +10,16 @@
 
 ## Multimodal Projects
 
-### [KoDALLE: Text to Fashion](https://github.com/KR-HappyFace/KoDALLE)
+### [:octocat: KoDALLE: Text to Fashion](https://github.com/KR-HappyFace/KoDALLE)
 
 [![image-20211227151557604](https://github.com/KR-HappyFace/KoDALLE/raw/main/assets/README/image-20211227151557604.png)](https://github.com/KR-HappyFace/KoDALLE)
 
 **Generating dress outfit images based on given input text** | [📄 Presentation](https://github.com/KR-HappyFace/KoDALLE/blob/main/README.pdf)
 
 - Role
-  - Created training pipeline from VQGAN through DALLE.
+  - **Created training pipeline from VQGAN through DALLE.**
+  - **Maintained versions of 1 million pairs image-caption dataset.**
   - Constructed inference pipeline from VQGAN through DALLE.
-  - Maintained versions and preprocessed 1 million pairs of image-caption dataset.
   - Established live demo for the KoDALLE on Huggingface Space.
 - Skills
   - DALLE: transformers, torch
@@ -30,7 +30,7 @@
 
 ## Natural Language Processing Projects
 
-### [KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT)
+### [:octocat: KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT)
 
 **Extracting relations between subject and object entity in KLUE Benchmark dataset**  | [✍️ Blog Post](https://snoop2head.github.io/Relation-Extraction-Code/)
 
@@ -42,67 +42,65 @@
   - Relation Extraction: transformers, torch
   - Wrangling: pandas, numpy
 
-### [Conditional Generation with KoGPT](https://github.com/snoop2head/KoGPT-Joong-2)
+### [:octocat: Conditional Generation with KoGPT](https://github.com/snoop2head/KoGPT-Joong-2)
 
-**Sentence generation with KoGPT-Trinity according to given emotional condition** | [🤗 Huggingface Demo](https://huggingface.co/spaces/snoop2head/KoGPT-Conditional-Generation)
+**Sentence generation with given emotion conditions** | [🤗 Huggingface Demo](https://huggingface.co/spaces/snoop2head/KoGPT-Conditional-Generation)
 
 - Role
-  - **Finetuned KoGPT-Trinity with huggingface trainer with conditional emotion labels.**
+  - **Finetuned KoGPT-Trinity with conditional emotion labels.**
   - Created conditional emotion dataset and inference code in pytorch.
   - Maintained huggingface hosted model and live demo.
 - Skills
   - Generation: transformers, torch
   - Wrangling: pandas, numpy
 
-### [Emotional Instagram Posts(글스타그램) Dataset](https://github.com/Keracorn/geulstagram)
+### [:octocat: Emotional Instagram Posts(글스타그램) Dataset](https://github.com/Keracorn/geulstagram)
 
 **Created Emotional Instagram Posts(글스타그램) dataset** | [📄 Presentation](https://github.com/Keracorn/geulstagram/blob/master/README.pdf)
 
 - Role
-  - **Constructed Emotional Instagram Posts(Geulstagram) Dataset.**
+  - **Managed version control for the project Github Repository.**
   - Converted Korean text on image file to text file using Google Cloud Vision API.
-  - Managed pull request / version control for the project Github Repository.
-
 - Skills
   - Collection: Google Vision API, instagram-crawler
   - Wrangling: pandas
 
-### [Machine Reading Comprehension in Naver Boostcamp](https://snoop2head.github.io/Custom-MRC-Reader/)
+### [:octocat: Machine Reading Comprehension in Naver Boostcamp](https://snoop2head.github.io/Custom-MRC-Reader/)
 
 **Retrieved and extracted answers from wikipedia texts for given question** | [✍️ Blog Post](https://snoop2head.github.io/Custom-MRC-Reader/)
 
 - Role
   - **Attached bidirectional LSTM layers to the backbone transformers model to extract answers.**
-  - **Divided precision benchmark into start token prediction acc and end token prediction acc.**
+  - **Divided EM benchmark into start token prediction accuracy and end token prediction accuracy.**
   - Compared performances accross learning rates, optimizers and loss critera.
 - Skills
   - Extractive Reader: transformers, torch
   - Wrangling: pandas, numpy
 
-### [Mathpresso Corporation Joint Project](https://github.com/snoop2head/Mathpresso_Classification)
+### [:octocat: Mathpresso Corporation Joint Project](https://github.com/snoop2head/Mathpresso_Classification)
 
 **Corporate joint project for mathematics problems classification task** | [📄 Presentation](https://github.com/snoop2head/Mathpresso_Classification/blob/main/YBIGTA_%EB%A7%A4%EC%93%B0%ED%94%84%EB%A0%88%EC%86%8C_%EB%AA%BD%EB%8D%B0%EC%9D%B4%ED%81%AC_Final.pdf)
 
 - Role
   - **Preprocessed Korean mathematics problems dataset based on EDA.**
-  - Maintained version of preprocessing module on Github.
+  - Maintained version of preprocessing module.
 - Skills: pandas, numpy
 
 ---
 
 ## Computer Vision Projects
 
-### [Realtime Turtleneck Prevention](https://github.com/snoop2head/ml_classification_tutorial)
+### [:octocat: Realtime Turtleneck Prevention](https://github.com/snoop2head/ml_classification_tutorial)
 
 **Real-time desk posture detection through webcam** | [📷 Demo Video](https://www.youtube.com/watch?v=6z_TJaj71io&t=459s)
 
 - Role
   - **Created real-time detection window using opencv-python.**
   - Converted image dataset into Yaw/Pitch/Roll numerical dataset using RetinaFace model.
-  - Trained and hypertuned random forest classification model with precision rate of 93%.
+  - Trained and optimized random forest classification model with precision rate of 93%.
 - Skills: opencv-python, scikit-learn
 
-### [ELimNet](https://github.com/snoop2head/ELimNet)
+### [:octocat: ELimNet](https://github.com/snoop2head/ELimNet)
 
 **Elimination based Lightweight Neural Net with Pretrained Weights** | [📈 WandB Log](https://wandb.ai/elimnet/ElimNet)
 
@@ -112,9 +110,9 @@
   - Compared metrics accross VGG11, MobileNetV3 and EfficientNetB0.
 - Skills: torch, torchvision, wandb
 
-### [Face Mask, Age, Gender Classification in Naver Boostcamp](https://github.com/boostcampaitech2/image-classification-level1-23)
+### [:octocat: Face Mask, Age, Gender Classification in Naver Boostcamp](https://github.com/boostcampaitech2/image-classification-level1-23)
 
-Identifying 18 classes from given images: classifying Age Range, Biological Sex, Face Mask | [📄 Experimentation Log](https://snoop2head.github.io/Mask-Age-Gender-Classification-Competition/)
+Identifying 18 classes from given images: Age Range(3 classes), Biological Sex(2 classes), Face Mask(3 classes) | [📄 Experimentation Log](https://snoop2head.github.io/Mask-Age-Gender-Classification-Competition/)
 
 - Role
   - **Optimized combination of backbone models, losses and optimizers.**
@@ -126,7 +124,7 @@ Identifying 18 classes from given images: classifying Age Range, Biological Sex,
 
 ## Web Projects
 
-### [Exchange Program Overview Website](https://github.com/snoop2head/yonsei-exchange-program)
+### [:octocat: Exchange Program Overview Website](https://github.com/snoop2head/yonsei-exchange-program)
 
 **Overview for student life in foreign universities** | [✈️ Website Demo](https://yonsei-exchange.netlify.app/)
 
@@ -147,7 +145,7 @@ Identifying 18 classes from given images: classifying Age Range, Biological Sex,
   - Web: Gatsby.js, GraphQL, Netlify
 
 
-### [fitcuration website](https://github.com/snoop2head/fitcuration-django)
+### [:octocat: fitcuration website](https://github.com/snoop2head/fitcuration-django)
 
 **Search-based exercise retrieval web service** | [🏋️‍♂️ Demo Video](https://youtu.be/kef0CxzMANo?t=38)
 
@@ -170,7 +168,7 @@ Identifying 18 classes from given images: classifying Age Range, Biological Sex,
 
 ## Quantitative Finance Projects
 
-### [Stock Price Prediction Competition @DACON](https://github.com/snoop2head/elastic-stock-prediction)
+### [:octocat: Stock Price Prediction Competition @DACON](https://github.com/snoop2head/elastic-stock-prediction)
 
 **Top 5% in Dacon's *Stock Price Prediction Competition*** | [✍️ Blog Post](https://snoop2head.github.io/Dacon-Stock-Price-Competition/)
 
@@ -184,7 +182,7 @@ Identifying 18 classes from given images: classifying Age Range, Biological Sex,
   - Quantitative Finance: ta-lib, finance-datareader
   - Wrangling: pandas, numpy
 
-### [Korean Spinoff Event Tracker](https://github.com/snoop2head/spinoff_hunter_kor)
+### [:octocat: Korean Spinoff Event Tracker](https://github.com/snoop2head/spinoff_hunter_kor)
 
 Get financial data of public companies involved in spinoff events on Google Spreadsheet | [🧩 Dataset Demo](https://docs.google.com/spreadsheets/d/1chJ2NKHVc0gKjsMaQI1UHEPxdjneV1ZWaTGHseQvxP4/edit?usp=sharing)
 
@@ -197,7 +195,7 @@ Get financial data of public companies involved in spinoff events on Google Spre
 
 ## Opensource Contributions
 
-### [docker/docker.github.io](https://github.com/docker/docker.github.io)
+### [:octocat: docker/docker.github.io](https://github.com/docker/docker.github.io)
 
 **Updated PostgreSQL initialization for "Quickstart: dockerizing django" documentation** | [🐳 Pull Request](https://github.com/docker/docker.github.io/pull/10624)
 
@@ -206,7 +204,7 @@ Get financial data of public companies involved in spinoff events on Google Spre
   - Backend: Django, Django ORM & PostgreSQL
   - Deployment: Docker, docker-compose
 
-### [NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch)
+### [:octocat: NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch)
 
 **Fixed torch version comparison fallback error for source repo of NVIDIA Research** | [✍️ Pull Request](https://github.com/NVlabs/stylegan2-ada-pytorch/pull/197)
 
@@ -217,7 +215,7 @@ Get financial data of public companies involved in spinoff events on Google Spre
 
 ## ETC
 
-### [Indigo](https://github.com/snoop2head/indigo)
+### [:octocat: Indigo](https://github.com/snoop2head/indigo)
 
 **Don't miss concerts for your favorite artists with KakaoTalk Chatbot** | [📷 Demo Video](https://www.youtube.com/watch?v=uIOWqumaOD4)
 
@@ -229,7 +227,7 @@ Get financial data of public companies involved in spinoff events on Google Spre
   - Backend: Flask, Pymongo & MongoDB
   - Deployment: AWS EC2
 
-### [Covid19 Confirmed Cases Prediction](https://github.com/Rank23/COVID19)
+### [:octocat: Covid19 Confirmed Cases Prediction](https://github.com/Rank23/COVID19)
 
 **Predict the spread of COVID-19 in early stage after its entrance to country.**
 
