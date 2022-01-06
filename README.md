@@ -10,7 +10,8 @@
 
 ## Multimodal Projects
 
-### <a href="https://github.com/KR-HappyFace/KoDALLE" target="_blank" rel="noopener noreferrer"><img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion</a>
+
+### <a href="#" onclick='window.open("https://github.com/KR-HappyFace/KoDALLE");return false;'><img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion</a>
 
 [![image-20211227151557604](https://github.com/KR-HappyFace/KoDALLE/raw/main/assets/README/image-20211227151557604.png)](https://github.com/KR-HappyFace/KoDALLE)
 
