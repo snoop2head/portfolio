@@ -1,6 +1,6 @@
 # snoop2head's portfolio
 
-**Learn enough to be dangerous to build an idea. Concept it, show it to the world.**
+**Capture Questions, Answer with Code**
 
 - Name: Young Jin Ahn
 - Email: young_ahn@yonsei.ac.kr
@@ -32,10 +32,10 @@
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT)
 
-**Extracting relations between subject and object entity in KLUE Benchmark dataset**  | [✍️ Blog Post](https://snoop2head.github.io/Relation-Extraction-Code/)
+**Extracting relations between subject and object entity in KLUE Benchmark dataset** | [✍️ Blog Post](https://snoop2head.github.io/Relation-Extraction-Code/)
 
 - Role
-  - **Finetuned RoBERTa model according to RBERT structure in pytorch.** 
+  - **Finetuned RoBERTa model according to RBERT structure in pytorch.**
   - Composed custom dataset, trainer, inference code in pytorch.
   - Applied stratified k-fold cross validation for the custom trainer.
 - Skills
@@ -67,7 +67,7 @@
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Machine Reading Comprehension in Naver Boostcamp](https://snoop2head.github.io/Custom-MRC-Reader/)
 
-**Retrieved and extracted answers from wikipedia texts for given question** | [✍️ Blog Post](https://snoop2head.github.io/Custom-MRC-Reader/)
+**Retrieved and extracted answers from wikipedia texts for given question** | [✍️ Blog Post](https://snoop2head.github.io/Custom-MRC-Reader/)
 
 - Role
   - **Attached bidirectional LSTM layers to the backbone transformers model to extract answers.**
@@ -144,12 +144,12 @@
   - Summarizing: textrankr, konlpy, soynlp
   - Web: Gatsby.js, GraphQL, Netlify
 
-
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> fitcuration website](https://github.com/snoop2head/fitcuration-django)
 
 **Search-based exercise retrieval web service** | [📷 Demo Video](https://youtu.be/kef0CxzMANo?t=38)
 
 - Role
+
   - **Built retrieval algorithm based on search keyword using TF-IDF.**
   - Deployed website using Docker, AWS RDS, AWS S3, AWS EBS
   - Constructed backend using Django, Django ORM & PostgreSQL.
@@ -163,14 +163,13 @@
 
 <img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="150" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg">
 
-
 ---
 
 ## Quantitative Finance Projects
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Stock Price Prediction Competition @DACON](https://github.com/snoop2head/elastic-stock-prediction)
 
-**Top 5% in Dacon's *Stock Price Prediction Competition*** | [✍️ Blog Post](https://snoop2head.github.io/Dacon-Stock-Price-Competition/)
+**Top 5% in Dacon's _Stock Price Prediction Competition_** | [✍️ Blog Post](https://snoop2head.github.io/Dacon-Stock-Price-Competition/)
 
 - Role
   - **Validated the model's performance according to different periods** for the sake of robustness.
