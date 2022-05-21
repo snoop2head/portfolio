@@ -8,6 +8,14 @@
 
 ---
 
+## 🏆 Dacon competitions
+
+Dacon is Kaggle alike competitive Data Science and Deep Learning platform in Korea.
+
+- 🥇 [Relation Extraction for Korean Sentence Pairs on KLUE benchmark](https://dacon.io/competitions/official/235875/overview/description) - **1st place (1/468)**
+- 🥇 [Python Code Clone Detection - *ongoing competition*](https://dacon.io/competitions/official/235900/overview/description) - **2nd place (2/250)**
+- 🥉 [Stock Price Forecast on KOSPI & KOSDAQ](https://dacon.io/competitions/official/235857/overview/description) - **6th place (6/205)**
+
 ## Multimodal Projects
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion](https://github.com/KR-HappyFace/KoDALLE)
@@ -16,15 +24,9 @@
 
 **Generating dress outfit images based on given input text** | [📄 Presentation](https://github.com/KR-HappyFace/KoDALLE/blob/main/README.pdf)
 
-- Role
-  - **Created training pipeline from VQGAN through DALLE.**
-  - **Maintained versions of 1 million pairs image-caption dataset.**
-  - Constructed inference pipeline from VQGAN through DALLE.
-  - Established live demo for the KoDALLE on Huggingface Space.
-- Skills
-  - DALLE: transformers, torch
-  - VQGAN: torch, torchvision
-  - Backend demo server: fastapi
+- **Created training pipeline from VQGAN through DALLE.**
+- **Maintained versions of 1 million pairs image-caption dataset.**
+- Established live demo for the KoDALLE on Huggingface Space via FastAPI.
 
 ---
 
@@ -34,57 +36,38 @@
 
 **Extracting relations between subject and object entity in KLUE Benchmark dataset** | [✍️ Blog Post](https://snoop2head.github.io/Relation-Extraction-Code/)
 
-- Role
-  - **Finetuned RoBERTa model according to RBERT structure in pytorch.**
-  - Composed custom dataset, trainer, inference code in pytorch.
-  - Applied stratified k-fold cross validation for the custom trainer.
-- Skills
-  - Relation Extraction: transformers, torch
-  - Wrangling: pandas, numpy
+- **Finetuned RoBERTa model according to RBERT structure in pytorch.**
+- Composed custom dataset, trainer, inference code in pytorch.
+- Applied stratified k-fold cross validation for the custom trainer.
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Conditional Generation with KoGPT](https://github.com/snoop2head/KoGPT-Joong-2)
 
 **Sentence generation with given emotion conditions** | [🤗 Huggingface Demo](https://huggingface.co/spaces/snoop2head/KoGPT-Conditional-Generation)
 
-- Role
-  - **Finetuned KoGPT-Trinity with conditional emotion labels.**
-  - Created conditional emotion dataset and inference code in pytorch.
-  - Maintained huggingface hosted model and live demo.
-- Skills
-  - Generation: transformers, torch
-  - Wrangling: pandas, numpy
+- **Finetuned KoGPT-Trinity with conditional emotion labels.**
+- Created conditional emotion dataset and inference code in pytorch.
+- Maintained huggingface hosted model and live demo.
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Emotional Instagram Posts(글스타그램) Dataset](https://github.com/Keracorn/geulstagram)
 
 **Created Emotional Instagram Posts(글스타그램) dataset** | [📄 Presentation](https://github.com/Keracorn/geulstagram/blob/master/README.pdf)
 
-- Role
-  - **Managed version control for the project Github Repository.**
-  - Converted Korean text on image file to text file using Google Cloud Vision API.
-- Skills
-  - Collection: Google Vision API, instagram-crawler
-  - Wrangling: pandas
+- Managed version control for the project Github Repository.
+- Converted Korean text on image file to text file using Google Cloud Vision API.
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Machine Reading Comprehension in Naver Boostcamp](https://snoop2head.github.io/Custom-MRC-Reader/)
 
 **Retrieved and extracted answers from wikipedia texts for given question** | [✍️ Blog Post](https://snoop2head.github.io/Custom-MRC-Reader/)
 
-- Role
-  - **Attached bidirectional LSTM layers to the backbone transformers model to extract answers.**
-  - **Divided EM benchmark into start token prediction accuracy and end token prediction accuracy.**
-  - Compared performances accross learning rates, optimizers and loss critera.
-- Skills
-  - Extractive Reader: transformers, torch
-  - Wrangling: pandas, numpy
+- **Attached bidirectional LSTM layers to the backbone transformers model to extract answers.**
+- **Divided benchmark into start token prediction accuracy and end token prediction accuracy.**
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Mathpresso Corporation Joint Project](https://github.com/snoop2head/Mathpresso_Classification)
 
 **Corporate joint project for mathematics problems classification task** | [📄 Presentation](https://github.com/snoop2head/Mathpresso_Classification/blob/main/YBIGTA_%EB%A7%A4%EC%93%B0%ED%94%84%EB%A0%88%EC%86%8C_%EB%AA%BD%EB%8D%B0%EC%9D%B4%ED%81%AC_Final.pdf)
 
-- Role
-  - **Preprocessed Korean mathematics problems dataset based on EDA.**
-  - Maintained version of preprocessing module.
-- Skills: pandas, numpy
+- **Preprocessed Korean mathematics problems dataset based on EDA.**
+- Maintained version of preprocessing module.
 
 ---
 
@@ -94,31 +77,25 @@
 
 **Real-time desk posture detection through webcam** | [📷 Demo Video](https://www.youtube.com/watch?v=6z_TJaj71io&t=459s)
 
-- Role
-  - **Created real-time detection window using opencv-python.**
-  - Converted image dataset into Yaw/Pitch/Roll numerical dataset using RetinaFace model.
-  - Trained and optimized random forest classification model with precision rate of 93%.
-- Skills: opencv-python, scikit-learn
+- **Created real-time detection window using opencv-python.**
+- Converted image dataset into Yaw/Pitch/Roll numerical dataset using RetinaFace model.
+- Trained and optimized random forest classification model with precision rate of 93%.
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> ELimNet](https://github.com/snoop2head/ELimNet)
 
 **Elimination based Lightweight Neural Net with Pretrained Weights** | [📄 Presentation](https://github.com/snoop2head/ELimNet/blob/main/README.pdf)
 
-- Role
-  - **Constructed lightweight CNN model with less than 1M #params** by removing top layers from pretrained CNN models.
-  - Assessed on Trash Annotations in Context(TACO) Dataset sampled for 6 classes with 20,851 images.
-  - Compared metrics accross VGG11, MobileNetV3 and EfficientNetB0.
-- Skills: torch, torchvision, wandb
+- **Constructed lightweight CNN model with less than 1M #params** by removing top layers from pretrained CNN models.
+- Assessed on Trash Annotations in Context(TACO) Dataset sampled for 6 classes with 20,851 images.
+- Compared metrics accross VGG11, MobileNetV3 and EfficientNetB0.
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Face Mask, Age, Gender Classification in Naver Boostcamp](https://github.com/boostcampaitech2/image-classification-level1-23)
 
 **Identifying 18 classes from given images: Age Range(3 classes), Biological Sex(2 classes), Face Mask(3 classes)** | [✍️ Blog Post](https://snoop2head.github.io/Mask-Age-Gender-Classification-Competition/)
 
-- Role
-  - **Optimized combination of backbone models, losses and optimizers.**
-  - Created additional dataset with labels(age, sex, mask) to resolve class imbalance.
-  - Cropped facial characteristics with MTCNN and RetinaFace to reduce noise in the image.
-- Skills: torch, torchvision, timm
+- **Optimized combination of backbone models, losses and optimizers.**
+- Created additional dataset with labels(age, sex, mask) to resolve class imbalance.
+- Cropped facial characteristics with MTCNN and RetinaFace to reduce noise in the image.
 
 ---
 
@@ -128,38 +105,25 @@
 
 **Overview for student life in foreign universities** | [✈️ Website Demo](https://yonsei-exchange.netlify.app/)
 
-<img height="300" width="200" alt="image" src="./images/yonsei_exchange1.png"><img height="300" width="250" alt="image" src="./images/yonsei_exchange2.png"><img height="300" width="250" alt="image" src="./images/yonsei_exchange3.png">
+- **6000 Pageviews within 6 Months**
+- **4 minutes+ of Average Retention Time**
 
-- KPIs
-  - **6000 Pageviews within 6 Months**
-  - **4 minutes+ of Average Retention Time**
-- Role
-  - Collected and preprocessed 11200 text review data from the Yonsei website.
-  - Visualized department distribution and weather information using matplotlib.
-  - Sentiment analysis on satisfaction level for foreign universities with pretrained BERT model.
-  - Clustered universities with provided curriculum with K-means clustering.
-- Skills
-  - Wrangling: pandas, numpy, statistic
-  - Clustering: scikit-learn, matplotlib
-  - Summarizing: textrankr, konlpy, soynlp
-  - Web: Gatsby.js, GraphQL, Netlify
+<img height="300" width="200" alt="image" src="./images/yonsei_exchange1.png"><img height="300" width="250" alt="image" src="./images/yonsei_exchange2.png">
+
+- Collected and preprocessed 11200 text review data from the Yonsei website using pandas.
+- Visualized department distribution and weather information using matplotlib.
+- Sentiment analysis on satisfaction level for foreign universities with pretrained BERT model.
+- Clustered universities with provided curriculum with K-means clustering.
+- Hosted reports on universities using Gatsby.js, GraphQL, and Netlify.
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> fitcuration website](https://github.com/snoop2head/fitcuration-django)
 
 **Search-based exercise retrieval web service** | [📷 Demo Video](https://youtu.be/kef0CxzMANo?t=38)
 
-- Role
-
-  - **Built retrieval algorithm based on search keyword using TF-IDF.**
-  - Deployed website using Docker, AWS RDS, AWS S3, AWS EBS
-  - Constructed backend using Django, Django ORM & PostgreSQL.
-  - Composed client-side using Sass, Tailwind, HTML5.
-
-- Skills
-  - Backend: Django, Django ORM & PostgreSQL
-  - Client: Sass, Tailwind, HTML5
-  - Deployment: Docker, AWS RDS, AWS S3, AWS EBS
-  - Natural Language Processing: scikit-learn, gensim, konlpy, soynlp
+- **Built retrieval algorithm based on search keyword using TF-IDF.**
+- Deployed website using Docker, AWS RDS, AWS S3, AWS EBS
+- Constructed backend using Django, Django ORM & PostgreSQL.
+- Composed client-side using Sass, Tailwind, HTML5.
 
 <img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="150" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg">
 
@@ -171,24 +135,16 @@
 
 **Top 5% in Dacon's _Stock Price Prediction Competition_** | [✍️ Blog Post](https://snoop2head.github.io/Dacon-Stock-Price-Competition/)
 
-- Role
-  - **Validated the model's performance according to different periods** for the sake of robustness.
-  - Applied cross validation by using ElasticNetCV model.
-  - Completed the model's inference for the evaluation period.
-  - Tested ARIMA, RandomforestRegressor and ElasticNetCV.
-- Skills
-  - Machine Learning: scikit-learn
-  - Quantitative Finance: ta-lib, finance-datareader
-  - Wrangling: pandas, numpy
+- **Validated the model's performance according to different periods** for the sake of robustness.
+- Applied cross validation by using ElasticNetCV model.
+- Completed the model's inference for the evaluation period.
+- Tested ARIMA, RandomforestRegressor and ElasticNetCV.
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Korean Spinoff Event Tracker](https://github.com/snoop2head/spinoff_hunter_kor)
 
 **Get financial data of public companies involved in spinoff events on Google Spreadsheet** | [🧩 Dataset Demo](https://docs.google.com/spreadsheets/d/1chJ2NKHVc0gKjsMaQI1UHEPxdjneV1ZWaTGHseQvxP4/edit?usp=sharing)
 
-- Role: Crawl Data, Wrangle Financial Dataset, Display on Google Sheets
-- Skills
-  - Collection: BeautifulSoup4
-  - Wrangling: pandas
+- Wrangled finance dataset which are displayed on Google Sheets
 
 ---
 
@@ -218,26 +174,19 @@
 
 **Don't miss concerts for your favorite artists with KakaoTalk Chatbot** | [📷 Demo Video](https://www.youtube.com/watch?v=uIOWqumaOD4)
 
-- Role
-  - Created API server for KakaoTalk chatbot
-  - Visualized concert schedules on user's Google Calendar
-  - Created / Updated events in Google Calendar.
-- Skills
-  - Backend: Flask, Pymongo & MongoDB
-  - Deployment: AWS EC2
+- Created API server for KakaoTalk chatbot with Flask, Pymongo and MongoDB.
+- Deployed the API server on AWS EC2.
+- Visualized concert schedules on user's Google Calendar.
+- Created / Updated events in Google Calendar.
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Covid19 Confirmed Cases Prediction](https://github.com/Rank23/COVID19)
 
 **Predict the spread of COVID-19 in early stage after its entrance to country.**
 
-- Role
-  - Fixed existing errors on Github Repository.
-  - Wrote footnotes in both English and Korean.
-- Skills
-  - Wrangling: pandas
-- Precision and Results
-  - ±5% accuracy for one-day prediction.
-  - ±10% accuracy for 30-day prediction.
+- Fixed existing errors on Github Repository.
+- Wrote footnotes in both English and Korean.
+- ±5% accuracy for one-day prediction.
+- ±10% accuracy for 30-day prediction.
 
 ---
 
@@ -266,4 +215,4 @@
 - Docker, docker-compose
 - AWS EC2, Google Cloud App Engine
 - AWS S3, RDS (PostgreSQL)
-- AWS Elastic Beanstalk, CodePipeline
+- AWS Elastic Beanstalk, CodePipeline;
