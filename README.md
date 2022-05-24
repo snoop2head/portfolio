@@ -11,7 +11,7 @@
 ## 🏆 Competition Awards
 
 - 🎖 [Ministry of Statistics | Korean Standard Industry Classification (2022)](https://data.kostat.go.kr/sbchome/bbs/boardList.do?boardId=SBCSBBS_000000025000&curMenuNo=OPT_09_02_00_0) - **7th place (7/311)**
-- 🥉 [Dacon | Python Code Clone Detection (2022)](https://dacon.io/competitions/official/235900/overview/description) - **3rd place (3/275)**
+- 🥇 [Dacon | Python Code Clone Detection (2022)](https://dacon.io/competitions/official/235900/overview/description) - **3rd place (1/279)**
 - 🥇 [Dacon | KLUE benchmark Relation Extraction from Korean Sentence Pairs (2022)](https://dacon.io/competitions/official/235875/overview/description) - **1st place (1/468)**
 - 🎖 [Dacon | Stock Price Forecast on KOSPI & KOSDAQ (2021)](https://dacon.io/competitions/official/235857/overview/description) - **6th place (6/205)**
 
