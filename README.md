@@ -6,21 +6,18 @@
 - Email: young_ahn@yonsei.ac.kr
 - Blog: https://snoop2head.github.io/
 
----
+----
 
-## 🏆 Dacon competitions
+## 🏆 Competition Awards
+
+- 🎖 [Ministry of Statistics | Korean Standard Industry Classification (2022)](https://data.kostat.go.kr/sbchome/bbs/boardList.do?boardId=SBCSBBS_000000025000&curMenuNo=OPT_09_02_00_0) - **7th place (7/311)**
+- 🥉 [Dacon | Python Code Clone Detection (2022)](https://dacon.io/competitions/official/235900/overview/description) - **3rd place (3/275)**
+- 🥇 [Dacon | KLUE benchmark Relation Extraction from Korean Sentence Pairs (2022)](https://dacon.io/competitions/official/235875/overview/description) - **1st place (1/468)**
+- 🎖 [Dacon | Stock Price Forecast on KOSPI & KOSDAQ (2021)](https://dacon.io/competitions/official/235857/overview/description) - **6th place (6/205)**
 
 Dacon is Kaggle alike competitive data science and deep learning platform in Korea.
 
-- 🥇 [Relation Extraction from Korean Sentence Pairs in KLUE benchmark](https://dacon.io/competitions/official/235875/overview/description) - **1st place (1/468)**
-- 🥉 [Python Code Clone Detection - *ongoing competition*](https://dacon.io/competitions/official/235900/overview/description) - **3rd place (3/275)**
-- 🎖 [Stock Price Forecast on KOSPI & KOSDAQ](https://dacon.io/competitions/official/235857/overview/description) - **6th place (6/205)**
-
-## 🏆 Other competitions
-
-- 🎖 [Korean Standard Industry Classification hosted by Government Ministry of Statistics](https://data.kostat.go.kr/sbchome/bbs/boardList.do?boardId=SBCSBBS_000000025000&curMenuNo=OPT_09_02_00_0) - **7th place (7/311)**
-
-## Multimodal Projects
+## 🛠 Multimodal Projects
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion](https://github.com/KR-HappyFace/KoDALLE)
 
@@ -35,7 +32,7 @@ Dacon is Kaggle alike competitive data science and deep learning platform in Kor
 
 ---
 
-## Natural Language Processing Projects
+## 💬 Natural Language Processing Projects
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Deep Encoder Shallow Decoder](https://github.com/snoop2head/Deep-Encoder-Shallow-Decoder)
 
@@ -81,7 +78,7 @@ Dacon is Kaggle alike competitive data science and deep learning platform in Kor
 
 ---
 
-## Computer Vision Projects
+## 👀 Computer Vision Projects
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Realtime Turtleneck Prevention](https://github.com/snoop2head/ml_classification_tutorial)
 
@@ -109,7 +106,7 @@ Dacon is Kaggle alike competitive data science and deep learning platform in Kor
 
 ---
 
-## Web Projects
+## 🕸 Web Projects
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Exchange Program Overview Website](https://github.com/snoop2head/yonsei-exchange-program)
 
@@ -139,7 +136,7 @@ Dacon is Kaggle alike competitive data science and deep learning platform in Kor
 
 ---
 
-## Quantitative Finance Projects
+## 💰 Quantitative Finance Projects
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Stock Price Prediction Competition @DACON](https://github.com/snoop2head/elastic-stock-prediction)
 
