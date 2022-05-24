@@ -13,8 +13,12 @@
 Dacon is Kaggle alike competitive data science and deep learning platform in Korea.
 
 - 🥇 [Relation Extraction from Korean Sentence Pairs in KLUE benchmark](https://dacon.io/competitions/official/235875/overview/description) - **1st place (1/468)**
-- 🥇 [Python Code Clone Detection - *ongoing competition*](https://dacon.io/competitions/official/235900/overview/description) - **2nd place (2/250)**
-- 🥉 [Stock Price Forecast on KOSPI & KOSDAQ](https://dacon.io/competitions/official/235857/overview/description) - **6th place (6/205)**
+- 🥉 [Python Code Clone Detection - *ongoing competition*](https://dacon.io/competitions/official/235900/overview/description) - **3rd place (3/275)**
+- 🎖 [Stock Price Forecast on KOSPI & KOSDAQ](https://dacon.io/competitions/official/235857/overview/description) - **6th place (6/205)**
+
+## 🏆 Other competitions
+
+- 🎖 [Korean Standard Industry Classification hosted by Government Ministry of Statistics](https://data.kostat.go.kr/sbchome/bbs/boardList.do?boardId=SBCSBBS_000000025000&curMenuNo=OPT_09_02_00_0) - **7th place (7/311)**
 
 ## Multimodal Projects
 
