@@ -3,6 +3,7 @@
 **Capture Questions, Answer with Code**
 
 - Name: Young Jin Ahn
+- Major in Economics and Minor in Statistics
 - Email: young_ahn@yonsei.ac.kr
 - Blog: https://snoop2head.github.io/
 
@@ -223,3 +224,16 @@ Dacon is Kaggle alike competitive data science and deep learning platform in Kor
 - AWS EC2, Google Cloud App Engine
 - AWS S3, RDS (PostgreSQL)
 - AWS Elastic Beanstalk, CodePipeline;
+
+### Courses and Lectures
+
+- MATHEMATICAL STATISTICS 1 (A+)
+- STATISTICAL METHOD (A+)
+- LINEAR ALGEBRA (B+)
+- R AND PYTHON PROGRAMMING (A+)
+- SOCIAL INFORMATICS (A+)
+- INTRODUCTION TO STATISTICS (A0)
+- CALCULUS
+- LINEAR REGRESSION
+- TIME SERIES ANALYSIS
+- FINANCIAL ECONOMICS
