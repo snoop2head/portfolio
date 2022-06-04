@@ -3,7 +3,7 @@
 **Capture Questions, Answer with Code**
 
 - Name: Young Jin Ahn
-- Major in Economics and Minor in Statistics
+- Department: Economics Major and Statistics Minor at Yonsei University
 - Email: young_ahn@yonsei.ac.kr
 - Blog: https://snoop2head.github.io/
 
