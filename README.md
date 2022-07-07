@@ -11,13 +11,15 @@
 
 ## 🏆 Competition Awards
 
-- 🥈 [National IT Industry Promotion Agency | Machine Reading Compehension(2022)](https://aichallenge.or.kr/competition/detail/1/task/5/taskInfo) - **2nd Place (2/26)**
-- 🎖 [Ministry of Statistics | Korean Standard Industry Classification (2022)](https://data.kostat.go.kr/sbchome/bbs/boardList.do?boardId=SBCSBBS_000000025000&curMenuNo=OPT_09_02_00_0) - **7th place (7/311)**
-- 🥇 [Dacon | KLUE benchmark Relation Extraction from Korean Sentence Pairs (2022)](https://dacon.io/competitions/official/235875/overview/description) - **1st place (1/468)**
-- 🥉 [Dacon | Python Code Clone Detection (2022)](https://dacon.io/competitions/official/235900/overview/description) - **3rd place (3/337)**
-- 🎖 [Dacon | Stock Price Forecast on KOSPI & KOSDAQ (2021)](https://dacon.io/competitions/official/235857/overview/description) - **6th place (6/205)**
+|            Host / Platform            |                         Topic / Task                         |          Result          |                          Repository                          |
+| :-----------------------------------: | :----------------------------------------------------------: | :----------------------: | :----------------------------------------------------------: |
+| National IT Industry Promotion Agency | [Machine Reading Compehension](https://aichallenge.or.kr/competition/detail/1/task/5/taskInfo) | 🥈 2nd Place<br />(2/26)  | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">MRC_Baseline](https://github.com/QuoQA-NLP/MRC_Baseline) |
+|        Ministry of Statistics         | [Korean Standard Industry Classification](https://data.kostat.go.kr/sbchome/bbs/boardList.do?boardId=SBCSBBS_000000025000&curMenuNo=OPT_09_02_00_0) | 🎖 7th Place<br />(7/311) |                              -                               |
+|                 Dacon                 | [KLUE benchmark Natural Language Inference](https://dacon.io/competitions/official/235875/overview/description) | 🥇 1st Place<br />(1/468) | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">KLUE NLI](https://dacon.io/competitions/official/235875/codeshare/4589?page=1&dtype=recent) |
+|           Dacon & AI Frenz            | [Python Code Clone Detection](https://dacon.io/competitions/official/235900/overview/description) | 🥉 3rd Place<br />(3/337) | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">CloneDetection](https://github.com/sangHa0411/CloneDetection) |
+|          Dacon & CCEI Korea           | [Stock Price Forecast on KOSPI & KOSDAQ](https://dacon.io/competitions/official/235857/overview/description) | 🎖 6th Place<br />(6/205) | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png">elastic-stock-prediction](https://github.com/snoop2head/elastic-stock-prediction) |
 
-Dacon is Kaggle alike competitive data science and deep learning platform in Korea.
+**Dacon is Kaggle alike competitive data science and deep learning platform in Korea.
 
 ## 🛠 Multimodal Projects
 
@@ -148,6 +150,14 @@ Dacon is Kaggle alike competitive data science and deep learning platform in Kor
 - Applied cross validation by using ElasticNetCV model.
 - Completed the model's inference for the evaluation period.
 - Tested ARIMA, RandomforestRegressor and ElasticNetCV.
+
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Forecasting Federal Rate with Lasso Regression Model](https://github.com/snoop2head/Federal-Rate-Prediction)
+
+**Federal Rate Prediction for the next FOMC Meeting**
+
+- Wrangled quantitative dataset with Finance Data Reader.
+- Yielded metrics and compared candidate regression models for the adaquate fit.
+- Hyperparameter optimization for the candidate models.
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Korean Spinoff Event Tracker](https://github.com/snoop2head/spinoff_hunter_kor)
 
