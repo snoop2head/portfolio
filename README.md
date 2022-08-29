@@ -3,27 +3,48 @@
 **Capture Questions, Answer with Code**
 
 - Name: Young Jin Ahn
-- Department: Economics Major and Statistics Minor at Yonsei University
 - Email: young_ahn@yonsei.ac.kr
 - Blog: https://snoop2head.github.io/
+
+---
+
+## 📖 Education
+
+### Yonsei University
+
+**Bachelor of Economics (Major) and Applied Statistics (Minor)**
+
+- INTRODUCTION TO STATISTICS (A0)
+- STATISTICAL METHOD (A+)
+- CALCULUS (TBD)
+- LINEAR ALGEBRA (B+)
+- MATHEMATICAL STATISTICS 1 (A+)
+- LINEAR REGRESSION (B+)
+- R AND PYTHON PROGRAMMING (A+)
+- DATA STRUCTURE (TBD)
+- SPECIAL PROBLEMS IN COMPUTING (A0)
+- SOCIAL INFORMATICS (A+)
+- TIME SERIES ANALYSIS (A+)
 
 ----
 
 ## 🏆 Competition Awards
 
-|            Host / Platform            |                         Topic / Task                         |          Result          |                          Repository                          |
-| :-----------------------------------: | :----------------------------------------------------------: | :----------------------: | :----------------------------------------------------------: |
-| National IT Industry Promotion Agency | [Machine Reading Compehension](https://aichallenge.or.kr/competition/detail/1/task/5/taskInfo) | 🥈 2nd Place<br />(2/26)  | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> MRC_Baseline](https://github.com/QuoQA-NLP/MRC_Baseline) |
-|        Ministry of Statistics         | [Korean Standard Industry Classification](https://data.kostat.go.kr/sbchome/bbs/boardList.do?boardId=SBCSBBS_000000025000&curMenuNo=OPT_09_02_00_0) | 🎖 7th Place<br />(7/311) |                              -                               |
-|                 Dacon                 | [KLUE benchmark Natural Language Inference](https://dacon.io/competitions/official/235875/overview/description) | 🥇 1st Place<br />(1/468) | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KLUE NLI](https://dacon.io/competitions/official/235875/codeshare/4589?page=1&dtype=recent) |
-|           Dacon & AI Frenz            | [Python Code Clone Detection](https://dacon.io/competitions/official/235900/overview/description) | 🥉 3rd Place<br />(3/337) | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> CloneDetection](https://github.com/sangHa0411/CloneDetection) |
-|          Dacon & CCEI Korea           | [Stock Price Forecast on KOSPI & KOSDAQ](https://dacon.io/competitions/official/235857/overview/description) | 🎖 6th Place<br />(6/205) | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> elastic-stock-prediction](https://github.com/snoop2head/elastic-stock-prediction) |
+|            Host / Platform            |                         Topic / Task                         |          Result          |                          Repository                          | Year |
+| :-----------------------------------: | :----------------------------------------------------------: | :----------------------: | :----------------------------------------------------------: | :----: |
+| National IT Industry Promotion Agency | [Machine Reading Compehension](https://aichallenge.or.kr/competition/detail/1/task/5/taskInfo) | 🥈 2nd Place<br />(2/26)  | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> MRC_Baseline](https://github.com/QuoQA-NLP/MRC_Baseline) | 2022 |
+|        Ministry of Statistics         | [Korean Standard Industry Classification](https://data.kostat.go.kr/sbchome/bbs/boardList.do?boardId=SBCSBBS_000000025000&curMenuNo=OPT_09_02_00_0) | 🎖 7th Place<br />(7/311) |                              -                               | 2022 |
+|                 Dacon                 | [KLUE benchmark Natural Language Inference](https://dacon.io/competitions/official/235875/overview/description) | 🥇 1st Place<br />(1/468) | [🌐 KLUE NLI](https://dacon.io/competitions/official/235875/codeshare/4589) | 2022 |
+|           Dacon & AI Frenz            | [Python Code Clone Detection](https://dacon.io/competitions/official/235900/overview/description) | 🥉 3rd Place<br />(3/337) | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> CloneDetection](https://github.com/sangHa0411/CloneDetection) | 2022 |
+|          Dacon & CCEI Korea           | [Stock Price Forecast on KOSPI & KOSDAQ](https://dacon.io/competitions/official/235857/overview/description) | 🎖 6th Place<br />(6/205) | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> elastic-stock-prediction](https://github.com/snoop2head/elastic-stock-prediction) | 2021 |
 
 **Dacon is Kaggle alike competitive data science and deep learning platform in Korea.
 
+---
+
 ## 🛠 Multimodal Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion](https://github.com/KR-HappyFace/KoDALLE)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion](https://github.com/KR-HappyFace/KoDALLE) | 2021
 
 [<img width="700" alt="image" src="https://github.com/KR-HappyFace/KoDALLE/raw/main/assets/README/image-20211227151557604.png">](https://github.com/KR-HappyFace/KoDALLE)
 
@@ -36,63 +57,93 @@
 
 ---
 
+## 🔐 Deep Learning Security Projects
+
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Membership Inference Attack](https://github.com/yonsei-cysec/Membership_Inference_Attack) | 2022
+
+Implementation of Shokri et al(2016) [Membership Inference Attacks Against Machine Learning Models](https://arxiv.org/pdf/1610.05820.pdf)
+
+- Modified training methodology referencing [Carlini et al(2021)](https://arxiv.org/abs/2112.03570) to prevent overfitting and to conduct further research on different types of models.
+- Reproduced attack metrics as the following.
+
+| MIA Attack Metrics | Accuracy | Precision | Recall | F1 Score |
+| :----------------: | :------: | :-------: | :----: | :------: |
+|      CIFAR10       |  0.8376  |  0.8087   | 0.8834 |  0.8444  |
+|      CIFAR100      |  0.9746  |  0.9627   | 0.9875 |  0.9749  |
+
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Language Model Memorization](https://github.com/yonsei-cysec/Language_Model_Memorization) | 2022
+
+Implementation of Carlini et al(2020) [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
+
+- Accelerated inference speed with parallel Multi-GPU usage.
+- Ruled out 'low-quality repeated generations' appeared in the paper with repetition penalty and with ngram restriction.
+
+---
+
 ## 💬 Natural Language Processing Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Deep Encoder Shallow Decoder](https://github.com/snoop2head/Deep-Encoder-Shallow-Decoder)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoQuillBot](https://github.com/QuoQA-NLP/KoQuillBot) & [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> T5 Translation](https://github.com/QuoQA-NLP/T5_Translation) | 2022
+
+Paraphrasing tool with round trip translation utilizing T5 Machine Translation. | [🤗 KoQuillBot Huggingface Demo](https://huggingface.co/spaces/QuoQA-NLP/KoQuillBot) | [🤗 Translator Huggingface Demo](https://huggingface.co/spaces/QuoQA-NLP/QuoQaGo)
+
+|                  | BLEU Score |                      Translation Result                      |
+| :--------------: | :--------: | :----------------------------------------------------------: |
+| Korean ➡️ English |   45.15    | [🔗 Inference Result](https://huggingface.co/datasets/QuoQA-NLP/KE-T5-Ko2En-Base-Inference-Result) |
+| English ➡️ Korean |     -      |                              -                               |
+
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Deep Encoder Shallow Decoder](https://github.com/snoop2head/Deep-Encoder-Shallow-Decoder) | 2022
 
 **Huggingface implementation for the paper "Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation"** | [📄 Translation Output](https://docs.google.com/spreadsheets/d/1IqEuRuEpphPEX3ni1m0EwqYuOU4E4t4-jC6uullpJhE/edit#gid=204599913)
 
 - Composed custom dataset, trainer, inference code in pytorch.
 - Trained and hosted encoder-decoder transformers model using huggingface.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT)
+|                  | BLEU Score |                      Translation Result                      |
+| :----------------: | :--------: | :----------------------------------------------------------: |
+| Korean ➡️ English |   35.82    | [🔗 Inference Result](https://docs.google.com/spreadsheets/d/1IqEuRuEpphPEX3ni1m0EwqYuOU4E4t4-jC6uullpJhE/edit#gid=204599913) |
+| English ➡️ Korean |     -      |                              -                               |
+
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT) | 2021
 
 **Extracting relations between subject and object entity in KLUE Benchmark dataset** | [✍️ Blog Post](https://snoop2head.github.io/Relation-Extraction-Code/)
 
 - Finetuned RoBERTa model according to RBERT structure in pytorch.
 - Applied stratified k-fold cross validation for the custom trainer.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Conditional Generation with KoGPT](https://github.com/snoop2head/KoGPT-Joong-2)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Conditional Generation with KoGPT](https://github.com/snoop2head/KoGPT-Joong-2) | 2021
 
 **Sentence generation with given emotion conditions** | [🤗 Huggingface Demo](https://huggingface.co/spaces/snoop2head/KoGPT-Conditional-Generation)
 
 - Finetuned KoGPT-Trinity with conditional emotion labels.
 - Maintained huggingface hosted model and live demo.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Emotional Instagram Posts(글스타그램) Dataset](https://github.com/Keracorn/geulstagram)
-
-**Created Emotional Instagram Posts(글스타그램) dataset** | [📄 Presentation](https://github.com/Keracorn/geulstagram/blob/master/README.pdf)
-
-- Managed version control for the project Github Repository.
-- Converted Korean texts on image file into text file using Google Cloud Vision API.
-
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Machine Reading Comprehension in Naver Boostcamp](https://snoop2head.github.io/Custom-MRC-Reader/)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Machine Reading Comprehension in Naver Boostcamp](https://snoop2head.github.io/Custom-MRC-Reader/) | 2021
 
 **Retrieved and extracted answers from wikipedia texts for given question** | [✍️ Blog Post](https://snoop2head.github.io/Custom-MRC-Reader/)
 
 - Attached bidirectional LSTM layers to the backbone transformers model to extract answers.
 - Divided benchmark into start token prediction accuracy and end token prediction accuracy.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Mathpresso Corporation Joint Project](https://github.com/snoop2head/Mathpresso_Classification)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Mathpresso Corporation Joint Project](https://github.com/snoop2head/Mathpresso_Classification) | 2020
 
 **Corporate joint project for mathematics problems classification task** | [📄 Presentation](https://github.com/snoop2head/Mathpresso_Classification/blob/main/YBIGTA_%EB%A7%A4%EC%93%B0%ED%94%84%EB%A0%88%EC%86%8C_%EB%AA%BD%EB%8D%B0%EC%9D%B4%ED%81%AC_Final.pdf)
 
 - Preprocessed Korean mathematics problems dataset based on EDA.
 - Maintained version of preprocessing module.
 
+
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Constructing Emotional Instagram(글스타그램) Dataset](https://github.com/Keracorn/geulstagram) | 2019
+
+**Created Emotional Instagram Posts(글스타그램) dataset** | [📄 Presentation](https://github.com/Keracorn/geulstagram/blob/master/README.pdf)
+
+- Managed version control for the project Github Repository.
+- Converted Korean texts on image file into text file using Google Cloud Vision API.
+
 ---
 
 ## 👀 Computer Vision Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Realtime Turtleneck Prevention](https://github.com/snoop2head/ml_classification_tutorial)
-
-**Real-time desk posture detection through webcam** | [📷 Demo Video](https://www.youtube.com/watch?v=6z_TJaj71io&t=459s)
-
-- Created real-time detection window using opencv-python.
-- Converted image dataset into Yaw/Pitch/Roll numerical dataset using RetinaFace model.
-- Trained and optimized random forest classification model with precision rate of 93%.
-
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> ELimNet](https://github.com/snoop2head/ELimNet)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> ELimNet](https://github.com/snoop2head/ELimNet) | 2021
 
 **Elimination based Lightweight Neural Net with Pretrained Weights** | [📄 Presentation](https://github.com/snoop2head/ELimNet/blob/main/README.pdf)
 
@@ -100,7 +151,7 @@
 - Assessed on Trash Annotations in Context(TACO) Dataset sampled for 6 classes with 20,851 images.
 - Compared metrics accross VGG11, MobileNetV3 and EfficientNetB0.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Face Mask, Age, Gender Classification in Naver Boostcamp](https://github.com/boostcampaitech2/image-classification-level1-23)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Face Mask, Age, Gender Classification in Naver Boostcamp](https://github.com/boostcampaitech2/image-classification-level1-23) | 2021
 
 **Identifying 18 classes from given images: Age Range(3 classes), Biological Sex(2 classes), Face Mask(3 classes)** | [✍️ Blog Post](https://snoop2head.github.io/Mask-Age-Gender-Classification-Competition/)
 
@@ -108,11 +159,20 @@
 - Created additional dataset with labels(age, sex, mask) to resolve class imbalance.
 - Cropped facial characteristics with MTCNN and RetinaFace to reduce noise in the image.
 
+
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Realtime Turtleneck Prevention](https://github.com/snoop2head/ml_classification_tutorial) | 2020
+
+**Real-time desk posture detection through webcam** | [📷 Demo Video](https://www.youtube.com/watch?v=6z_TJaj71io&t=459s)
+
+- Created real-time detection window using opencv-python.
+- Converted image dataset into Yaw/Pitch/Roll numerical dataset using RetinaFace model.
+- Trained and optimized random forest classification model with precision rate of 93%.
+
 ---
 
 ## 🕸 Web Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Exchange Program Overview Website](https://github.com/snoop2head/yonsei-exchange-program)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Exchange Program Overview Website](https://github.com/snoop2head/yonsei-exchange-program) | 2020
 
 **Overview for student life in foreign universities** | [✈️ Website Demo](https://yonsei-exchange.netlify.app/)
 
@@ -127,7 +187,7 @@
 - Clustered universities with provided curriculum with K-means clustering.
 - Hosted reports on universities using Gatsby.js, GraphQL, and Netlify.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> fitcuration website](https://github.com/snoop2head/fitcuration-django)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> fitcuration website](https://github.com/snoop2head/fitcuration-django) | 2020
 
 **Search-based exercise retrieval web service** | [📷 Demo Video](https://youtu.be/kef0CxzMANo?t=38)
 
@@ -142,16 +202,7 @@
 
 ## 💰 Quantitative Finance Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Stock Price Prediction Competition @DACON](https://github.com/snoop2head/elastic-stock-prediction)
-
-**Top 5% in Dacon's _Stock Price Prediction Competition_** | [✍️ Blog Post](https://snoop2head.github.io/Dacon-Stock-Price-Competition/)
-
-- Validated the model's performance according to different periods for the sake of robustness.
-- Applied cross validation by using ElasticNetCV model.
-- Completed the model's inference for the evaluation period.
-- Tested ARIMA, RandomforestRegressor and ElasticNetCV.
-
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Forecasting Federal Rate with Lasso Regression Model](https://github.com/snoop2head/Federal-Rate-Prediction)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Forecasting Federal Rate with Lasso Regression Model](https://github.com/snoop2head/Federal-Rate-Prediction) | 2022
 
 **Federal Rate Prediction for the next FOMC Meeting**
 
@@ -159,7 +210,7 @@
 - Yielded metrics and compared candidate regression models for the adaquate fit.
 - Hyperparameter optimization for the candidate models.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Korean Spinoff Event Tracker](https://github.com/snoop2head/spinoff_hunter_kor)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Korean Spinoff Event Tracker](https://github.com/snoop2head/spinoff_hunter_kor) | 2020
 
 **Get financial data of public companies involved in spinoff events on Google Spreadsheet** | [🧩 Dataset Demo](https://docs.google.com/spreadsheets/d/1chJ2NKHVc0gKjsMaQI1UHEPxdjneV1ZWaTGHseQvxP4/edit?usp=sharing)
 
@@ -167,38 +218,26 @@
 
 ---
 
-## Opensource Contributions
+## 🏷 Opensource Contributions
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> docker/docker.github.io](https://github.com/docker/docker.github.io)
-
-**Updated PostgreSQL initialization for "Quickstart: dockerizing django" documentation** | [🐳 Pull Request](https://github.com/docker/docker.github.io/pull/10624)
-
-- Duration: March 2020 ~ April 2020
-- Skills
-  - Backend: Django, Django ORM & PostgreSQL
-  - Deployment: Docker, docker-compose
-
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch) | 2021
 
 **Fixed torch version comparison fallback error for source repo of NVIDIA Research** | [✍️ Pull Request](https://github.com/NVlabs/stylegan2-ada-pytorch/pull/197)
 
-- Duration: November 2020
 - Skills: torch, torchvision
+
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> docker/docker.github.io](https://github.com/docker/docker.github.io) | 2020
+
+**Updated PostgreSQL initialization for "Quickstart: dockerizing django" documentation** | [🐳 Pull Request](https://github.com/docker/docker.github.io/pull/10624)
+
+- Skills: Docker, docker-compose, Django
 
 ---
 
-## ETC
+## 🗄 ETCs
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Indigo](https://github.com/snoop2head/indigo)
 
-**Don't miss concerts for your favorite artists with KakaoTalk Chatbot** | [📷 Demo Video](https://www.youtube.com/watch?v=uIOWqumaOD4)
-
-- Created API server for KakaoTalk chatbot with Flask, Pymongo and MongoDB.
-- Deployed the API server on AWS EC2.
-- Visualized concert schedules on user's Google Calendar.
-- Created / Updated events in Google Calendar.
-
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Covid19 Confirmed Cases Prediction](https://github.com/Rank23/COVID19)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Covid19 Confirmed Cases Prediction](https://github.com/Rank23/COVID19) | 2020
 
 **Predict the spread of COVID-19 in early stage after its entrance to country.**
 
@@ -207,15 +246,25 @@
 - ±5% accuracy for one-day prediction.
 - ±10% accuracy for 30-day prediction.
 
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Indigo](https://github.com/snoop2head/indigo) | 2019
+
+**Don't miss concerts for your favorite artists with KakaoTalk Chatbot** | [📷 Demo Video](https://www.youtube.com/watch?v=uIOWqumaOD4)
+
+- Created API server for KakaoTalk chatbot with Flask, Pymongo and MongoDB.
+- Deployed the API server on AWS EC2.
+- Visualized concert schedules on user's Google Calendar.
+- Created / Updated events in Google Calendar.
+
+
 ---
 
-## Skillsets
+## 🛠 Skillsets
 
 **Data Analysis**
 
 - Data Analysis Library: pandas, numpy
 - Deep Learning: pytorch, transformers
-- Machine Learning: scikit-learn, gensim
+- Machine Learning: scikit-learn, gensim, xgboost
 
 **Backend**
 
@@ -235,15 +284,3 @@
 - AWS EC2, Google Cloud App Engine
 - AWS S3, RDS (PostgreSQL)
 - AWS Elastic Beanstalk, CodePipeline;
-
-### Courses and Lectures
-
-- MATHEMATICAL STATISTICS 1 (A+)
-- STATISTICAL METHOD (A+)
-- LINEAR ALGEBRA (B+)
-- LINEAR REGRESSION (B+)
-- R AND PYTHON PROGRAMMING (A+)
-- TIME SERIES ANALYSIS (A+)
-- FINANCIAL ECONOMICS (B+)
-- SOCIAL INFORMATICS (A+)
-- INTRODUCTION TO STATISTICS (A0)
