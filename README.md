@@ -26,7 +26,6 @@
 - SOCIAL INFORMATICS (A+)
 - TIME SERIES ANALYSIS (A+)
 
-----
 
 ## 🏆 Competition Awards
 
@@ -55,7 +54,6 @@
 - Trained VQGAN and DALLE model from the scratch.
 - Established live demo for the KoDALLE on Huggingface Space via FastAPI.
 
----
 
 ## 🔐 Deep Learning Security Projects
 
@@ -78,7 +76,6 @@ Implementation of Carlini et al(2020) [Extracting Training Data from Large Langu
 - Accelerated inference speed with parallel Multi-GPU usage.
 - Ruled out 'low-quality repeated generations' appeared in the paper with repetition penalty and with ngram restriction.
 
----
 
 ## 💬 Natural Language Processing Projects
 
@@ -139,7 +136,6 @@ Paraphrasing tool with round trip translation utilizing T5 Machine Translation. 
 - Managed version control for the project Github Repository.
 - Converted Korean texts on image file into text file using Google Cloud Vision API.
 
----
 
 ## 👀 Computer Vision Projects
 
@@ -168,7 +164,6 @@ Paraphrasing tool with round trip translation utilizing T5 Machine Translation. 
 - Converted image dataset into Yaw/Pitch/Roll numerical dataset using RetinaFace model.
 - Trained and optimized random forest classification model with precision rate of 93%.
 
----
 
 ## 🕸 Web Projects
 
@@ -198,7 +193,6 @@ Paraphrasing tool with round trip translation utilizing T5 Machine Translation. 
 
 <img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="150" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg">
 
----
 
 ## 💰 Quantitative Finance Projects
 
@@ -232,7 +226,6 @@ Paraphrasing tool with round trip translation utilizing T5 Machine Translation. 
 
 - Skills: Docker, docker-compose, Django
 
----
 
 ## 🗄 ETCs
 
