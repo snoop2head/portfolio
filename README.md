@@ -62,21 +62,25 @@
 **Implementation of Carlini et al(2020) [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)**
 
 - Accelerated inference speed with parallel Multi-GPU usage.
-- Ruled out 'low-quality repeated generations' appeared in the paper with repetition penalty and with ngram restriction.
+- Ruled out 'low-quality repeated generations' problem of the paper with repetition penalty and with ngram restriction.
 
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Membership Inference Attack (2022)](https://github.com/yonsei-cysec/Membership_Inference_Attack)
 
 **Implementation of Shokri et al(2016) [Membership Inference Attacks Against Machine Learning Models](https://arxiv.org/pdf/1610.05820.pdf)**
 
-- Modified shadow models' training methodology to prevent overfitting.
+- Prevented overfitting of shadow models' by adding early stop, regularizing with weight decay and allocating train/val/test datasets.
 - Referenced [Carlini et al(2021)](https://arxiv.org/abs/2112.03570) to conduct further research on different types of models and metrics.
 - Reproduced attack metrics as the following.
 
 | MIA Attack Metrics | Accuracy | Precision | Recall | F1 Score |
 | :----------------: | :------: | :-------: | :----: | :------: |
-|      CIFAR10       |  0.8376  |  0.8087   | 0.8834 |  0.8444  |
+|      CIFAR10       |  0.7761  |  0.7593   | 0.8071 |  0.7825  |
 |      CIFAR100      |  0.9746  |  0.9627   | 0.9875 |  0.9749  |
+
+|                    MIA ROC Curve CIFAR10                     |                    MIA ROC Curve CIFAR100                    |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![roc_curve CIFAR10](https://raw.githubusercontent.com/snoop2head/Membership_Inference_Attack/main/assets/roc_cifar10.png) | ![roc_curve CIFAR100](https://raw.githubusercontent.com/snoop2head/Membership_Inference_Attack/main/assets/roc_cifar100.png) |
 
 
 ## 💬 Natural Language Processing Projects
