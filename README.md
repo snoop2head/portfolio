@@ -102,7 +102,7 @@
 | Korean ➡️ English |   35.82    | [🔗 Inference Result](https://docs.google.com/spreadsheets/d/1IqEuRuEpphPEX3ni1m0EwqYuOU4E4t4-jC6uullpJhE/edit#gid=204599913) |
 | English ➡️ Korean |     -      |                              -                               |
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KLUE-RBERT (2022)](https://github.com/snoop2head/KLUE-RBERT)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KLUE-RBERT (2021)](https://github.com/snoop2head/KLUE-RBERT)
 
 **Extracting relations between subject and object entity in KLUE Benchmark dataset** | [✍️ Blog Post](https://snoop2head.github.io/Relation-Extraction-Code/)
 
