@@ -59,7 +59,7 @@
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Language Model Memorization](https://github.com/yonsei-cysec/Language_Model_Memorization) | 2022
 
-Implementation of Carlini et al(2020) [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
+**Implementation of Carlini et al(2020) [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)**
 
 - Accelerated inference speed with parallel Multi-GPU usage.
 - Ruled out 'low-quality repeated generations' appeared in the paper with repetition penalty and with ngram restriction.
@@ -67,7 +67,7 @@ Implementation of Carlini et al(2020) [Extracting Training Data from Large Langu
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Membership Inference Attack](https://github.com/yonsei-cysec/Membership_Inference_Attack) | 2022
 
-Implementation of Shokri et al(2016) [Membership Inference Attacks Against Machine Learning Models](https://arxiv.org/pdf/1610.05820.pdf)
+**Implementation of Shokri et al(2016) [Membership Inference Attacks Against Machine Learning Models](https://arxiv.org/pdf/1610.05820.pdf)**
 
 - Modified shadow models' training methodology to prevent overfitting.
 - Referenced [Carlini et al(2021)](https://arxiv.org/abs/2112.03570) to conduct further research on different types of models and metrics.
@@ -83,7 +83,7 @@ Implementation of Shokri et al(2016) [Membership Inference Attacks Against Machi
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoQuillBot](https://github.com/QuoQA-NLP/KoQuillBot) & [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> T5 Translation](https://github.com/QuoQA-NLP/T5_Translation) | 2022
 
-Paraphrasing tool with round trip translation utilizing T5 Machine Translation. | [🤗 KoQuillBot Demo](https://huggingface.co/spaces/QuoQA-NLP/KoQuillBot) & [🤗 Translator Demo](https://huggingface.co/spaces/QuoQA-NLP/QuoQaGo)
+**Paraphrasing tool with round trip translation utilizing T5 Machine Translation.** | [🤗 KoQuillBot Demo](https://huggingface.co/spaces/QuoQA-NLP/KoQuillBot) & [🤗 Translator Demo](https://huggingface.co/spaces/QuoQA-NLP/QuoQaGo)
 
 |                  | BLEU Score |                      Translation Result                      |
 | :--------------: | :--------: | :----------------------------------------------------------: |
@@ -92,9 +92,9 @@ Paraphrasing tool with round trip translation utilizing T5 Machine Translation. 
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Deep Encoder Shallow Decoder](https://github.com/snoop2head/Deep-Encoder-Shallow-Decoder) | 2022
 
-**Huggingface implementation for the paper "Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation"** | [📄 Translation Output](https://docs.google.com/spreadsheets/d/1IqEuRuEpphPEX3ni1m0EwqYuOU4E4t4-jC6uullpJhE/edit#gid=204599913)
+**Implementation of Kasai et al(2020) [Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation](https://arxiv.org/abs/2006.10369)** | [📄 Translation Output](https://docs.google.com/spreadsheets/d/1IqEuRuEpphPEX3ni1m0EwqYuOU4E4t4-jC6uullpJhE/edit#gid=204599913)
 
-- Composed custom dataset, trainer, inference code in pytorch.
+- Composed custom dataset, trainer, inference code in pytorch and huggingface.
 - Trained and hosted encoder-decoder transformers model using huggingface.
 
 |                  | BLEU Score |                      Translation Result                      |
