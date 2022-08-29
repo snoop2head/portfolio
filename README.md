@@ -173,8 +173,9 @@
 
 **Overview for student life in foreign universities** | [✈️ Website Demo](https://yonsei-exchange.netlify.app/)
 
-- **6000 Pageviews within 6 Months**
-- **4 minutes+ of Average Retention Time**
+- **3400 Visitors within a year (2021.07 ~ 2022.07)**
+- **22000 Pageviews within a year (2021.07 ~ 2022.07)**
+- **3 minutes+ of Average Retention Time**
 
 <img height="300" width="200" alt="image" src="./images/yonsei_exchange1.png"><img height="300" width="250" alt="image" src="./images/yonsei_exchange2.png">
 
