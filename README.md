@@ -69,7 +69,8 @@ Implementation of Carlini et al(2020) [Extracting Training Data from Large Langu
 
 Implementation of Shokri et al(2016) [Membership Inference Attacks Against Machine Learning Models](https://arxiv.org/pdf/1610.05820.pdf)
 
-- Modified training methodology referencing [Carlini et al(2021)](https://arxiv.org/abs/2112.03570) to prevent overfitting and to conduct further research on different types of models.
+- Modified shadow models' training methodology to prevent overfitting.
+- Referenced [Carlini et al(2021)](https://arxiv.org/abs/2112.03570) to conduct further research on different types of models and metrics.
 - Reproduced attack metrics as the following.
 
 | MIA Attack Metrics | Accuracy | Precision | Recall | F1 Score |
@@ -82,7 +83,7 @@ Implementation of Shokri et al(2016) [Membership Inference Attacks Against Machi
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoQuillBot](https://github.com/QuoQA-NLP/KoQuillBot) & [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> T5 Translation](https://github.com/QuoQA-NLP/T5_Translation) | 2022
 
-Paraphrasing tool with round trip translation utilizing T5 Machine Translation. | [🤗 KoQuillBot Huggingface Demo](https://huggingface.co/spaces/QuoQA-NLP/KoQuillBot) | [🤗 Translator Huggingface Demo](https://huggingface.co/spaces/QuoQA-NLP/QuoQaGo)
+Paraphrasing tool with round trip translation utilizing T5 Machine Translation. | [🤗 KoQuillBot Demo](https://huggingface.co/spaces/QuoQA-NLP/KoQuillBot) & [🤗 Translator Demo](https://huggingface.co/spaces/QuoQA-NLP/QuoQaGo)
 
 |                  | BLEU Score |                      Translation Result                      |
 | :--------------: | :--------: | :----------------------------------------------------------: |
