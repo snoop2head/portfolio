@@ -57,6 +57,14 @@
 
 ## 🔐 Deep Learning Security Projects
 
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Language Model Memorization](https://github.com/yonsei-cysec/Language_Model_Memorization) | 2022
+
+Implementation of Carlini et al(2020) [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
+
+- Accelerated inference speed with parallel Multi-GPU usage.
+- Ruled out 'low-quality repeated generations' appeared in the paper with repetition penalty and with ngram restriction.
+
+
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Membership Inference Attack](https://github.com/yonsei-cysec/Membership_Inference_Attack) | 2022
 
 Implementation of Shokri et al(2016) [Membership Inference Attacks Against Machine Learning Models](https://arxiv.org/pdf/1610.05820.pdf)
@@ -68,13 +76,6 @@ Implementation of Shokri et al(2016) [Membership Inference Attacks Against Machi
 | :----------------: | :------: | :-------: | :----: | :------: |
 |      CIFAR10       |  0.8376  |  0.8087   | 0.8834 |  0.8444  |
 |      CIFAR100      |  0.9746  |  0.9627   | 0.9875 |  0.9749  |
-
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Language Model Memorization](https://github.com/yonsei-cysec/Language_Model_Memorization) | 2022
-
-Implementation of Carlini et al(2020) [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
-
-- Accelerated inference speed with parallel Multi-GPU usage.
-- Ruled out 'low-quality repeated generations' appeared in the paper with repetition penalty and with ngram restriction.
 
 
 ## 💬 Natural Language Processing Projects
