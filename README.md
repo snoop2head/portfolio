@@ -43,7 +43,7 @@
 
 ## 🛠 Multimodal Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion](https://github.com/KR-HappyFace/KoDALLE) | 2021
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion (2021)](https://github.com/KR-HappyFace/KoDALLE)
 
 [<img width="700" alt="image" src="https://github.com/KR-HappyFace/KoDALLE/raw/main/assets/README/image-20211227151557604.png">](https://github.com/KR-HappyFace/KoDALLE)
 
@@ -57,7 +57,7 @@
 
 ## 🔐 Deep Learning Security Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Language Model Memorization](https://github.com/yonsei-cysec/Language_Model_Memorization) | 2022
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Language Model Memorization (2022)](https://github.com/yonsei-cysec/Language_Model_Memorization)
 
 **Implementation of Carlini et al(2020) [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)**
 
@@ -65,7 +65,7 @@
 - Ruled out 'low-quality repeated generations' appeared in the paper with repetition penalty and with ngram restriction.
 
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Membership Inference Attack](https://github.com/yonsei-cysec/Membership_Inference_Attack) | 2022
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Membership Inference Attack (2022)](https://github.com/yonsei-cysec/Membership_Inference_Attack)
 
 **Implementation of Shokri et al(2016) [Membership Inference Attacks Against Machine Learning Models](https://arxiv.org/pdf/1610.05820.pdf)**
 
@@ -81,7 +81,7 @@
 
 ## 💬 Natural Language Processing Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoQuillBot](https://github.com/QuoQA-NLP/KoQuillBot) & [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> T5 Translation](https://github.com/QuoQA-NLP/T5_Translation) | 2022
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoQuillBot (2022)](https://github.com/QuoQA-NLP/KoQuillBot) & [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> T5 Translation (2022)](https://github.com/QuoQA-NLP/T5_Translation)
 
 **Paraphrasing tool with round trip translation utilizing T5 Machine Translation.** | [🤗 KoQuillBot Demo](https://huggingface.co/spaces/QuoQA-NLP/KoQuillBot) & [🤗 Translator Demo](https://huggingface.co/spaces/QuoQA-NLP/QuoQaGo)
 
@@ -90,7 +90,7 @@
 | Korean ➡️ English |   45.15    | [🔗 Inference Result](https://huggingface.co/datasets/QuoQA-NLP/KE-T5-Ko2En-Base-Inference-Result) |
 | English ➡️ Korean |     -      |                              -                               |
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Deep Encoder Shallow Decoder](https://github.com/snoop2head/Deep-Encoder-Shallow-Decoder) | 2022
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Deep Encoder Shallow Decoder (2022)](https://github.com/snoop2head/Deep-Encoder-Shallow-Decoder)
 
 **Implementation of Kasai et al(2020) [Deep Encoder, Shallow Decoder: Reevaluating Non-autoregressive Machine Translation](https://arxiv.org/abs/2006.10369)** | [📄 Translation Output](https://docs.google.com/spreadsheets/d/1IqEuRuEpphPEX3ni1m0EwqYuOU4E4t4-jC6uullpJhE/edit#gid=204599913)
 
@@ -102,28 +102,28 @@
 | Korean ➡️ English |   35.82    | [🔗 Inference Result](https://docs.google.com/spreadsheets/d/1IqEuRuEpphPEX3ni1m0EwqYuOU4E4t4-jC6uullpJhE/edit#gid=204599913) |
 | English ➡️ Korean |     -      |                              -                               |
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KLUE-RBERT](https://github.com/snoop2head/KLUE-RBERT) | 2021
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KLUE-RBERT (2022)](https://github.com/snoop2head/KLUE-RBERT)
 
 **Extracting relations between subject and object entity in KLUE Benchmark dataset** | [✍️ Blog Post](https://snoop2head.github.io/Relation-Extraction-Code/)
 
 - Finetuned RoBERTa model according to RBERT structure in pytorch.
 - Applied stratified k-fold cross validation for the custom trainer.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Conditional Generation with KoGPT](https://github.com/snoop2head/KoGPT-Joong-2) | 2021
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Conditional Generation with KoGPT (2021)](https://github.com/snoop2head/KoGPT-Joong-2)
 
 **Sentence generation with given emotion conditions** | [🤗 Huggingface Demo](https://huggingface.co/spaces/snoop2head/KoGPT-Conditional-Generation)
 
 - Finetuned KoGPT-Trinity with conditional emotion labels.
 - Maintained huggingface hosted model and live demo.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Machine Reading Comprehension in Naver Boostcamp](https://snoop2head.github.io/Custom-MRC-Reader/) | 2021
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Machine Reading Comprehension in Naver Boostcamp (2021)](https://snoop2head.github.io/Custom-MRC-Reader/)
 
 **Retrieved and extracted answers from wikipedia texts for given question** | [✍️ Blog Post](https://snoop2head.github.io/Custom-MRC-Reader/)
 
 - Attached bidirectional LSTM layers to the backbone transformers model to extract answers.
 - Divided benchmark into start token prediction accuracy and end token prediction accuracy.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Mathpresso Corporation Joint Project](https://github.com/snoop2head/Mathpresso_Classification) | 2020
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Mathpresso Corporation Joint Project (2020)](https://github.com/snoop2head/Mathpresso_Classification)
 
 **Corporate joint project for mathematics problems classification task** | [📄 Presentation](https://github.com/snoop2head/Mathpresso_Classification/blob/main/YBIGTA_%EB%A7%A4%EC%93%B0%ED%94%84%EB%A0%88%EC%86%8C_%EB%AA%BD%EB%8D%B0%EC%9D%B4%ED%81%AC_Final.pdf)
 
@@ -131,7 +131,7 @@
 - Maintained version of preprocessing module.
 
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Constructing Emotional Instagram(글스타그램) Dataset](https://github.com/Keracorn/geulstagram) | 2019
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Constructing Emotional Instagram Posts Dataset (2019)](https://github.com/Keracorn/geulstagram)
 
 **Created Emotional Instagram Posts(글스타그램) dataset** | [📄 Presentation](https://github.com/Keracorn/geulstagram/blob/master/README.pdf)
 
@@ -141,7 +141,7 @@
 
 ## 👀 Computer Vision Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> ELimNet](https://github.com/snoop2head/ELimNet) | 2021
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> ElimNet (2021)](https://github.com/snoop2head/ELimNet)
 
 **Elimination based Lightweight Neural Net with Pretrained Weights** | [📄 Presentation](https://github.com/snoop2head/ELimNet/blob/main/README.pdf)
 
@@ -149,7 +149,7 @@
 - Assessed on Trash Annotations in Context(TACO) Dataset sampled for 6 classes with 20,851 images.
 - Compared metrics accross VGG11, MobileNetV3 and EfficientNetB0.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Face Mask, Age, Gender Classification in Naver Boostcamp](https://github.com/boostcampaitech2/image-classification-level1-23) | 2021
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Face Mask, Age, Gender Classification in Naver Boostcamp (2021)](https://github.com/boostcampaitech2/image-classification-level1-23)
 
 **Identifying 18 classes from given images: Age Range(3 classes), Biological Sex(2 classes), Face Mask(3 classes)** | [✍️ Blog Post](https://snoop2head.github.io/Mask-Age-Gender-Classification-Competition/)
 
@@ -158,9 +158,9 @@
 - Cropped facial characteristics with MTCNN and RetinaFace to reduce noise in the image.
 
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Realtime Turtleneck Prevention](https://github.com/snoop2head/ml_classification_tutorial) | 2020
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Realtime Desktop Posture Classification (2020)](https://github.com/snoop2head/ml_classification_tutorial)
 
-**Real-time desk posture detection through webcam** | [📷 Demo Video](https://www.youtube.com/watch?v=6z_TJaj71io&t=459s)
+**Real-time desk posture classification through webcam** | [📷 Demo Video](https://www.youtube.com/watch?v=6z_TJaj71io&t=459s)
 
 - Created real-time detection window using opencv-python.
 - Converted image dataset into Yaw/Pitch/Roll numerical dataset using RetinaFace model.
@@ -169,7 +169,7 @@
 
 ## 🕸 Web Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Exchange Program Overview Website](https://github.com/snoop2head/yonsei-exchange-program) | 2020
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Exchange Program Overview Website (2020)](https://github.com/snoop2head/yonsei-exchange-program)
 
 **Overview for student life in foreign universities** | [✈️ Website Demo](https://yonsei-exchange.netlify.app/)
 
@@ -184,7 +184,7 @@
 - Clustered universities with provided curriculum with K-means clustering.
 - Hosted reports on universities using Gatsby.js, GraphQL, and Netlify.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> fitcuration website](https://github.com/snoop2head/fitcuration-django) | 2020
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> fitcuration website (2020)](https://github.com/snoop2head/fitcuration-django)
 
 **Search-based exercise retrieval web service** | [📷 Demo Video](https://youtu.be/kef0CxzMANo?t=38)
 
@@ -198,7 +198,7 @@
 
 ## 💰 Quantitative Finance Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Forecasting Federal Rate with Lasso Regression Model](https://github.com/snoop2head/Federal-Rate-Prediction) | 2022
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Forecasting Federal Rate with Lasso Regression Model (2022)](https://github.com/snoop2head/Federal-Rate-Prediction)
 
 **Federal Rate Prediction for the next FOMC Meeting**
 
@@ -206,7 +206,7 @@
 - Yielded metrics and compared candidate regression models for the adaquate fit.
 - Hyperparameter optimization for the candidate models.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Korean Spinoff Event Tracker](https://github.com/snoop2head/spinoff_hunter_kor) | 2020
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Korean Spinoff Event Tracker (2020)](https://github.com/snoop2head/spinoff_hunter_kor)
 
 **Get financial data of public companies involved in spinoff events on Google Spreadsheet** | [🧩 Dataset Demo](https://docs.google.com/spreadsheets/d/1chJ2NKHVc0gKjsMaQI1UHEPxdjneV1ZWaTGHseQvxP4/edit?usp=sharing)
 
@@ -216,13 +216,13 @@
 
 ## 🏷 Opensource Contributions
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> NVlabs/stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch) | 2021
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> NVlabs/stylegan2-ada-pytorch (2021)](https://github.com/NVlabs/stylegan2-ada-pytorch)
 
 **Fixed torch version comparison fallback error for source repo of NVIDIA Research** | [✍️ Pull Request](https://github.com/NVlabs/stylegan2-ada-pytorch/pull/197)
 
 - Skills: torch, torchvision
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> docker/docker.github.io](https://github.com/docker/docker.github.io) | 2020
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> docker/docker.github.io (2020)](https://github.com/docker/docker.github.io)
 
 **Updated PostgreSQL initialization for "Quickstart: dockerizing django" documentation** | [🐳 Pull Request](https://github.com/docker/docker.github.io/pull/10624)
 
@@ -232,7 +232,7 @@
 ## 🗄 ETCs
 
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Covid19 Confirmed Cases Prediction](https://github.com/Rank23/COVID19) | 2020
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Covid19 Confirmed Cases Prediction (2020)](https://github.com/Rank23/COVID19)
 
 **Predict the spread of COVID-19 in early stage after its entrance to country.**
 
@@ -241,7 +241,7 @@
 - ±5% accuracy for one-day prediction.
 - ±10% accuracy for 30-day prediction.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Indigo](https://github.com/snoop2head/indigo) | 2019
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Indigo (2019)](https://github.com/snoop2head/indigo)
 
 **Don't miss concerts for your favorite artists with KakaoTalk Chatbot** | [📷 Demo Video](https://www.youtube.com/watch?v=uIOWqumaOD4)
 
@@ -255,7 +255,7 @@
 
 ## 🛠 Skillsets
 
-**Data Analysis**
+**Data Analysis and Machine Learning**
 
 - Data Analysis Library: pandas, numpy
 - Deep Learning: pytorch, transformers
