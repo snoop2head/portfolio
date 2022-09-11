@@ -31,6 +31,7 @@
 
 
 
+
 ## 🏆 Competition Awards
 
 |            Host / Platform            |                         Topic / Task                         |          Result          |                          Repository                          | Year |
@@ -41,7 +42,7 @@
 |           Dacon & AI Frenz            | [Python Code Clone Detection](https://dacon.io/competitions/official/235900/overview/description) | 🥉 3rd <br />(3/337) | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> CloneDetection](https://github.com/sangHa0411/CloneDetection) | 2022 |
 |          Dacon & CCEI Korea           | [Stock Price Forecast on KOSPI & KOSDAQ](https://dacon.io/competitions/official/235857/overview/description) | 🎖 6th <br />(6/205) | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> elastic-stock-prediction](https://github.com/snoop2head/elastic-stock-prediction) | 2021 |
 
-**Dacon is Kaggle alike competitive data science and deep learning platform in Korea.
+**Dacon is Kaggle alike competition platform in Korea.
 
 ---
 
