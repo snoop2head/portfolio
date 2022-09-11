@@ -13,21 +13,22 @@
 ### Yonsei University
 
 <details>
-<summary> Bachelor of Economics (Major) and Applied Statistics (Minor)</summary>
-```
-- INTRODUCTION TO STATISTICS (A0)
-- STATISTICAL METHOD (A+)
-- CALCULUS (TBD)
-- LINEAR ALGEBRA (B+)
-- MATHEMATICAL STATISTICS 1 (A+)
-- LINEAR REGRESSION (B+)
-- R AND PYTHON PROGRAMMING (A+)
-- DATA STRUCTURE (TBD)
-- SPECIAL PROBLEMS IN COMPUTING (A0)
-- SOCIAL INFORMATICS (A+)
-- TIME SERIES ANALYSIS (A+)
-```
+<summary> Bachelor of Economics (Major) & Applied Statistics (Minor)</summary>
+  <ul>
+    <li>INTRODUCTION TO STATISTICS (A0)</li>
+    <li>STATISTICAL METHOD (A+)</li>
+    <li>CALCULUS (TBD)</li>
+    <li>LINEAR ALGEBRA (B+)</li>
+    <li>MATHEMATICAL STATISTICS 1 (A+)</li>
+    <li>LINEAR REGRESSION (B+)</li>
+    <li>R AND PYTHON PROGRAMMING (A+)</li>
+    <li>DATA STRUCTURE (TBD)</li>
+    <li>SPECIAL PROBLEMS IN COMPUTING (A0)</li>
+    <li>SOCIAL INFORMATICS (A+)</li>
+    <li>TIME SERIES ANALYSIS (A+)</li>
+  </ul>
 </details>
+
 
 
 ## 🏆 Competition Awards
@@ -286,4 +287,4 @@
 - Docker, docker-compose
 - AWS EC2, Google Cloud App Engine
 - AWS S3, RDS (PostgreSQL)
-- AWS Elastic Beanstalk, CodePipeline;
+- AWS Elastic Beanstalk, CodePipeline;
