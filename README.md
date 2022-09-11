@@ -12,8 +12,9 @@
 
 ### Yonsei University
 
-**Bachelor of Economics (Major) and Applied Statistics (Minor)**
-
+<details>
+<summary> Bachelor of Economics (Major) and Applied Statistics (Minor)</summary>
+```
 - INTRODUCTION TO STATISTICS (A0)
 - STATISTICAL METHOD (A+)
 - CALCULUS (TBD)
@@ -25,6 +26,8 @@
 - SPECIAL PROBLEMS IN COMPUTING (A0)
 - SOCIAL INFORMATICS (A+)
 - TIME SERIES ANALYSIS (A+)
+```
+</details>
 
 
 ## 🏆 Competition Awards
