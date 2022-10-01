@@ -108,7 +108,7 @@
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KLUE-RBERT (2021)](https://github.com/snoop2head/KLUE-RBERT)
 
-**Extracting relations between subject and object entity in KLUE Benchmark dataset** | [✍️ Blog Post](https://snoop2head.github.io/DL&ML/Relation-Extraction-Code/)
+**Extracting relations between subject and object entity in KLUE Benchmark dataset** | [✍️ Blog Post](https://snoop2head.github.io/Engineering/Relation-Extraction-Code/)
 
 - Finetuned RoBERTa model according to RBERT structure in pytorch.
 - Applied stratified k-fold cross validation for the custom trainer.
@@ -122,7 +122,7 @@
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Machine Reading Comprehension in Naver Boostcamp (2021)](https://github.com/boostcampaitech2/mrc-level2-nlp-15)
 
-**Retrieved and extracted answers from wikipedia texts for given question** | [✍️ Blog Post](https://snoop2head.github.io/DL&ML/Custom-MRC-Reader/)
+**Retrieved and extracted answers from wikipedia texts for given question** | [✍️ Blog Post](https://snoop2head.github.io/Engineering/Custom-MRC-Reader/)
 
 - Attached bidirectional LSTM layers to the backbone transformers model to extract answers.
 - Divided benchmark into start token prediction accuracy and end token prediction accuracy.
@@ -153,7 +153,7 @@
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Face Mask, Age, Gender Classification in Naver Boostcamp (2021)](https://github.com/boostcampaitech2/image-classification-level1-23)
 
-**Identifying 18 classes from given images: Age Range(3 classes), Biological Sex(2 classes), Face Mask(3 classes)** | [✍️ Blog Post](https://snoop2head.github.io/DL&ML/Mask-Age-Gender-Classification-Competition/)
+**Identifying 18 classes from given images: Age Range(3 classes), Biological Sex(2 classes), Face Mask(3 classes)** | [✍️ Blog Post](https://snoop2head.github.io/Engineering/Mask-Age-Gender-Classification-Competition/)
 
 - Optimized combination of backbone models, losses and optimizers.
 - Created additional dataset with labels(age, sex, mask) to resolve class imbalance.
