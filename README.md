@@ -120,9 +120,9 @@
 - Finetuned KoGPT-Trinity with conditional emotion labels.
 - Maintained huggingface hosted model and live demo.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Machine Reading Comprehension in Naver Boostcamp (2021)](https://snoop2head.github.io/DL&ML/Custom-MRC-Reader/#reader)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Machine Reading Comprehension in Naver Boostcamp (2021)](https://github.com/boostcampaitech2/mrc-level2-nlp-15)
 
-**Retrieved and extracted answers from wikipedia texts for given question** | [✍️ Blog Post](https://snoop2head.github.io/DL&ML/Custom-MRC-Reader/#reader)
+**Retrieved and extracted answers from wikipedia texts for given question** | [✍️ Blog Post](https://snoop2head.github.io/DL&ML/Custom-MRC-Reader/)
 
 - Attached bidirectional LSTM layers to the backbone transformers model to extract answers.
 - Divided benchmark into start token prediction accuracy and end token prediction accuracy.
