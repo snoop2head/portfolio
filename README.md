@@ -17,18 +17,19 @@
   <ul>
     <li>INTRODUCTION TO STATISTICS (A0)</li>
     <li>STATISTICAL METHOD (A+)</li>
-    <li>CALCULUS (TBD)</li>
+    <li>CALCULUS (B+)</li>
     <li>LINEAR ALGEBRA (B+)</li>
     <li>MATHEMATICAL STATISTICS 1 (A+)</li>
     <li>LINEAR REGRESSION (B+)</li>
     <li>R AND PYTHON PROGRAMMING (A+)</li>
-    <li>DATA STRUCTURE (TBD)</li>
+    <li>DATA STRUCTURE (B+)</li>
     <li>SPECIAL PROBLEMS IN COMPUTING (A0)</li>
     <li>SOCIAL INFORMATICS (A+)</li>
     <li>TIME SERIES ANALYSIS (A+)</li>
-    <li>THEORY AND PRACTICE OF DEEP LEARNING (TBD)</li>
+    <li>THEORY AND PRACTICE OF DEEP LEARNING (A+)</li>
   </ul>
 </details>
+
 
 ## 🏆 Competition Awards
 
@@ -46,6 +47,17 @@
 
 ## 🛠 Multimodal Projects
 
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Tokenized Lip Reading (2022)](https://github.com/snoop2head/Tokenized-Lip-Reading)
+
+|               Video-Language Pretraining Stage               |               Classification Finetuning Stage                |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [<img src="./images/pretraining.png" alt="drawing" width="500"/>](https://github.com/snoop2head/Tokenized-Lip-Reading) | [<img src="./images/finetuning.png" alt="drawing" width="500"/>](https://github.com/snoop2head/Tokenized-Lip-Reading) |
+
+**Weakly Supervised Pretraining for Cross Modal Video Language Transformers to achieve SOTA performance of 88.75% test accuracy in Lip Reading in the Wild (LRW) Benchmark without additional data**.
+
+- Quantized video into 3 channel(X,Y,Z) x 29 frame x 420 coordinate spectrogram image.
+- Devised two-stage training scheme requiring no extra data and achieved state of the art performance.
+
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion (2021)](https://github.com/KR-HappyFace/KoDALLE)
 
 [<img width="700" alt="image" src="https://github.com/KR-HappyFace/KoDALLE/raw/main/assets/README/image-20211227151557604.png">](https://github.com/KR-HappyFace/KoDALLE)
@@ -56,6 +68,8 @@
 - **Maintained versions of 1 million pairs image-caption dataset.**
 - Trained VQGAN and DALLE model from the scratch.
 - Established live demo for the KoDALLE on Huggingface Space via FastAPI.
+
+
 
 ## 🔐 Deep Learning Security Projects
 
