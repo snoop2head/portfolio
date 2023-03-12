@@ -47,16 +47,15 @@
 
 ## 🛠 Multimodal Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Tokenized Lip Reading (2022)](https://github.com/snoop2head/Tokenized-Lip-Reading)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Tokenized Lip Reading (WIP)](https://github.com/snoop2head/Tokenized-Lip-Reading)
 
 |               Video-Language Pretraining Stage               |               Classification Finetuning Stage                |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | [<img src="./images/pretraining.png" alt="drawing" width="500"/>](https://github.com/snoop2head/Tokenized-Lip-Reading) | [<img src="./images/finetuning.png" alt="drawing" width="500"/>](https://github.com/snoop2head/Tokenized-Lip-Reading) |
 
-**Weakly Supervised Pretraining for Cross Modal Video Language Transformers to achieve SOTA performance of 88.75% test accuracy in Lip Reading in the Wild (LRW) Benchmark without additional data**.
+**Weakly Supervised Pretraining for Cross Modal Video Language Transformers to achieve 88.75% test accuracy in Lip Reading in the Wild (LRW) Benchmark**.
 
 - Quantized video into 3 channel(X,Y,Z) x 29 frame x 420 coordinate spectrogram image.
-- Devised two-stage training scheme requiring no extra data and achieved state of the art performance.
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion (2021)](https://github.com/KR-HappyFace/KoDALLE)
 
@@ -71,7 +70,7 @@
 
 
 
-## 🔐 Deep Learning Security Projects
+## 🔐 Differential Privacy
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Language Model Memorization (2022)](https://github.com/yonsei-cysec/Language_Model_Memorization)
 
@@ -156,6 +155,16 @@
 - Converted Korean texts on image file into text file using Google Cloud Vision API.
 
 ## 👀 Computer Vision Projects
+
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> DotNeuralNet (2023)](https://github.com/snoop2head/DotNeuralNet)
+
+**Light-weight Neural Network for Optical Braille Recognition in the wild & on the book.**
+
+![yolov8 img](https://github.com/snoop2head/DotNeuralNet/raw/main/assets/result_yolov8.png)
+
+- Classified multi label one-hot encoded labels for raised braille patterns.
+- Pseudo-labeled Natural Scene Braille dataset.
+- Trained single stage object detection YOLO models for braille cell recognition.
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> ElimNet (2021)](https://github.com/snoop2head/ELimNet)
 
