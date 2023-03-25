@@ -158,7 +158,7 @@
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> DotNeuralNet (2023)](https://github.com/snoop2head/DotNeuralNet)
 
-**Light-weight Neural Network for Optical Braille Recognition in the wild & on the book.**
+**Light-weight Neural Network for Optical Braille Recognition in the wild & on the book.** | [🤗 Huggingface Demo](https://huggingface.co/spaces/snoop2head/braille-detection)
 
 ![yolov8 img](https://github.com/snoop2head/DotNeuralNet/raw/main/assets/result_yolov8.png)
 
