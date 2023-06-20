@@ -3,7 +3,7 @@
 **Capture Questions, Answer with Code**
 
 - Name: Young Jin Ahn
-- Email: young_ahn@yonsei.ac.kr
+- Email: snoop2head@kaist.ac.kr
 - Blog: https://snoop2head.github.io/
 
 ---
