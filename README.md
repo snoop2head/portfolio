@@ -10,10 +10,16 @@
 
 ## 📖 Education
 
+### Korea Advanced Institute of Science and Technology (KAIST)
+
+<details>
+<summary> Master of Science in Artificial Intelligence </summary>
+</details>
+
 ### Yonsei University
 
 <details>
-<summary> Bachelor of Economics (Major) & Applied Statistics (Minor)</summary>
+<summary> Bachelor of Arts in Economics & Minor in Applied Statistics</summary>
   <ul>
     <li>INTRODUCTION TO STATISTICS (A0)</li>
     <li>STATISTICAL METHOD (A+)</li>
