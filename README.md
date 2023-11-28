@@ -53,15 +53,13 @@
 
 ## 🛠 Multimodal Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Tokenized Lip Reading (WIP)](https://github.com/snoop2head/Tokenized-Lip-Reading)
+### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Cross-Modal Token Synchronization for Visual Speech Recognition (2023)](https://github.com/kaist-AILab/cmts)
 
-|               Video-Language Pretraining Stage               |               Classification Finetuning Stage                |
+|                      Framework Overview                      |          Influence of Audio Reconstruction Loss (λ)          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [<img src="./images/pretraining.png" alt="drawing" width="500"/>](https://github.com/snoop2head/Tokenized-Lip-Reading) | [<img src="./images/finetuning.png" alt="drawing" width="500"/>](https://github.com/snoop2head/Tokenized-Lip-Reading) |
+| [<img src="./images/CMTS.png" alt="drawing" height="300"/>](https://github.com/KAIST-AILab/CMTS) | [<img src="./images/performance.png" alt="drawing" height="300"/>](https://github.com/KAIST-AILab/CMTS) |
 
-**Weakly Supervised Pretraining for Cross Modal Video Language Transformers to achieve 88.75% test accuracy in Lip Reading in the Wild (LRW) Benchmark**.
-
-- Quantized video into 3 channel(X,Y,Z) x 29 frame x 420 coordinate spectrogram image.
+Visual Speech Recognition (VSR) stands at the intersection of computer vision and natural language processing, aiming to decipher spoken content from visual cues. A predominant challenge in VSR is the misalignment of graphemes in ground truth annotations, which often inadequately represent auditory nuances. To address this, we introduce the Cross-Modal Token Synchronization (CMTS) framework. Our method non-autoregressively generates discrete audio tokens from silent video frames, ensuring a synchronized bridge between visual and auditory modalities in one forward pass. Importantly, our framework seamlessly integrates with established temporal architectures, including Transformer, Conformer, and Temporal Convolutional Networks (TCN), without necessitating structural alterations. Evaluations on standard lip reading datasets confirm that our method achieves state-of-the-art results, demonstrating effectiveness of the approach.
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion (2021)](https://github.com/KR-HappyFace/KoDALLE)
 
