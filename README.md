@@ -14,6 +14,12 @@
 
 <details>
 <summary> Master of Science in Artificial Intelligence </summary>
+  <ul>
+    <li>Machine Learning for AI</li>
+		<li>Advanced Deep Learning</li>
+		<li>Programming for AI</li>
+    <li>Scientific Writing</li>
+</ul>
 </details>
 
 ### Yonsei University
