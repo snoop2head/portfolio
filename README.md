@@ -59,14 +59,6 @@
 
 ## 🛠 Multimodal Projects
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Cross-Modal Token Synchronization for Visual Speech Recognition (2023)](https://github.com/kaist-AILab/cmts)
-
-|                      Framework Overview                      |          Influence of Audio Reconstruction Loss (λ)          |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [<img src="./images/CMTS.png" alt="drawing" height="300"/>](https://github.com/KAIST-AILab/CMTS) | [<img src="./images/Performance.png" alt="drawing" height="300"/>](https://github.com/KAIST-AILab/CMTS) |
-
-Visual Speech Recognition (VSR) stands at the intersection of computer vision and natural language processing, aiming to decipher spoken content from visual cues. A predominant challenge in VSR is the misalignment of graphemes in ground truth annotations, which often inadequately represent auditory nuances. To address this, we introduce the Cross-Modal Token Synchronization (CMTS) framework. Our method non-autoregressively generates discrete audio tokens from silent video frames, ensuring a synchronized bridge between visual and auditory modalities in one forward pass. Importantly, our framework seamlessly integrates with established temporal architectures, including Transformer, Conformer, and Temporal Convolutional Networks (TCN), without necessitating structural alterations. Evaluations on standard lip reading datasets confirm that our method achieves state-of-the-art results, demonstrating effectiveness of the approach.
-
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion (2021)](https://github.com/KR-HappyFace/KoDALLE)
 
 [<img width="700" alt="image" src="https://github.com/KR-HappyFace/KoDALLE/raw/main/assets/README/image-20211227151557604.png">](https://github.com/KR-HappyFace/KoDALLE)
