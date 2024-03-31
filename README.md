@@ -15,12 +15,17 @@
 <details>
 <summary> Master of Science in Artificial Intelligence </summary>
   <ul>
-    <li>Machine Learning for AI</li>
-		<li>Advanced Deep Learning</li>
-		<li>Programming for AI</li>
-    <li>Scientific Writing</li>
+    <li>Machine Learning for AI (A+)</li>
+		<li>Advanced Deep Learning (A-)</li>
+		<li>Programming for AI (A+)</li>
+    <li>Scientific Writing (P)</li>
+    <li>Advanced Machine Learning for AI</li>
+    <li>Deep Reinforcement Learning</li>
+    <li>Machine Learning for Healthcare</li>
+    <li>Large Language Models</li>
 </ul>
 </details>
+
 
 ### Yonsei University
 
