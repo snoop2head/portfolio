@@ -16,15 +16,16 @@
 <summary> Master of Science in Artificial Intelligence </summary>
   <ul>
     <li>Machine Learning for AI (A+)</li>
-		<li>Advanced Deep Learning (A-)</li>
+    <li>Large Language Models (A+)</li>
 		<li>Programming for AI (A+)</li>
+    <li>Deep Reinforcement Learning (A+)</li>
+    <li>Machine Learning for Healthcare (A+)</li>
+    <li>Advanced Machine Learning for AI (A0)</li>
+    <li>Advanced Deep Learning (A-)</li>
     <li>Scientific Writing (P)</li>
-    <li>Advanced Machine Learning for AI</li>
-    <li>Deep Reinforcement Learning</li>
-    <li>Machine Learning for Healthcare</li>
-    <li>Large Language Models</li>
-</ul>
+  </ul>
 </details>
+
 
 
 ### Yonsei University
@@ -63,6 +64,17 @@
 ---
 
 ## 🛠 Multimodal Projects
+
+### [📄 SyncVSR: Data-Efficient Visual Speech Recognition with End-to-End Crossmodal Audio Token Synchronization](https://arxiv.org/abs/2406.12233)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lrw-1000)](https://paperswithcode.com/sota/lipreading-on-lrw-1000?p=syncvsr-data-efficient-visual-speech) 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lip-reading-in-the-wild)](https://paperswithcode.com/sota/lipreading-on-lip-reading-in-the-wild?p=syncvsr-data-efficient-visual-speech)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lrs2)](https://paperswithcode.com/sota/lipreading-on-lrs2?p=syncvsr-data-efficient-visual-speech)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lrs3-ted)](https://paperswithcode.com/sota/lipreading-on-lrs3-ted?p=syncvsr-data-efficient-visual-speech)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/landmark-based-lipreading-on-lrw)](https://paperswithcode.com/sota/landmark-based-lipreading-on-lrw?p=syncvsr-data-efficient-visual-speech)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/landmark-based-lipreading-on-lrs2)](https://paperswithcode.com/sota/landmark-based-lipreading-on-lrs2?p=syncvsr-data-efficient-visual-speech)
+
+
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion (2021)](https://github.com/KR-HappyFace/KoDALLE)
 
