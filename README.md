@@ -49,32 +49,35 @@
 </details>
 
 
-## 🏆 Competition Awards
-
-|              Host / Platform               |                                                                    Topic / Task                                                                     |        Result        |                                                                                Repository                                                                                 | Year |
-| :----------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
-| National IT Industry<br />Promotion Agency |                           [Machine Reading Compehension](https://aichallenge.or.kr/competition/detail/1/task/5/taskInfo)                            | 🥈 2nd <br />(2/26)  |             [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> MRC_Baseline](https://github.com/QuoQA-NLP/MRC_Baseline)              | 2022 |
-|           Ministry of Statistics           | [Korean Standard Industry Classification](https://data.kostat.go.kr/sbchome/bbs/boardList.do?boardId=SBCSBBS_000000025000&curMenuNo=OPT_09_02_00_0) | 🎖 7th <br />(7/311)  |                                                                                     -                                                                                     | 2022 |
-|                   Dacon                    |                   [KLUE benchmark Natural Language Inference](https://dacon.io/competitions/official/235875/overview/description)                   | 🥇 1st <br />(1/468) |                                                [🌐 KLUE NLI](https://dacon.io/competitions/official/235875/codeshare/4589)                                                | 2022 |
-|              Dacon & AI Frenz              |                          [Python Code Clone Detection](https://dacon.io/competitions/official/235900/overview/description)                          | 🥉 3rd <br />(3/337) |           [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> CloneDetection](https://github.com/sangHa0411/CloneDetection)           | 2022 |
-|             Dacon & CCEI Korea             |                    [Stock Price Forecast on KOSPI & KOSDAQ](https://dacon.io/competitions/official/235857/overview/description)                     | 🎖 6th <br />(6/205)  | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> elastic-stock-prediction](https://github.com/snoop2head/elastic-stock-prediction) | 2021 |
-
-\*\*Dacon is Kaggle alike competition platform in Korea.
 
 ---
 
 ## 🛠 Multimodal Projects
 
-### [📄 SyncVSR: Data-Efficient Visual Speech Recognition with End-to-End Crossmodal Audio Token Synchronization](https://arxiv.org/abs/2406.12233)
+### [📄 SyncVSR: Data-Efficient Visual Speech Recognition with End-to-End Crossmodal Audio Token Synchronization (Interspeech 2024) ](https://arxiv.org/abs/2406.12233)
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lrw-1000)](https://paperswithcode.com/sota/lipreading-on-lrw-1000?p=syncvsr-data-efficient-visual-speech) 
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lip-reading-in-the-wild)](https://paperswithcode.com/sota/lipreading-on-lip-reading-in-the-wild?p=syncvsr-data-efficient-visual-speech)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lrs2)](https://paperswithcode.com/sota/lipreading-on-lrs2?p=syncvsr-data-efficient-visual-speech)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lrs3-ted)](https://paperswithcode.com/sota/lipreading-on-lrs3-ted?p=syncvsr-data-efficient-visual-speech)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/landmark-based-lipreading-on-lrw)](https://paperswithcode.com/sota/landmark-based-lipreading-on-lrw?p=syncvsr-data-efficient-visual-speech)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/landmark-based-lipreading-on-lrs2)](https://paperswithcode.com/sota/landmark-based-lipreading-on-lrs2?p=syncvsr-data-efficient-visual-speech)
 
+|                   Overview of SyncVSR                    |            Performance of SyncVSR on LRS3             |
+| :------------------------------------------------------: | :---------------------------------------------------: |
+| <img width="300" alt="image" src="./images/SyncVSR.png"> | <img width="440" alt="image" src="./images/LRS3.png"> |
 
+**Frame-level crossmodal supervision with quantized audio tokens for enhanced Visual Speech Recognition.**
+
+- A prominent challenge in VSR is the presence of homophenes—visually similar lip gestures that represent different phonemes.
+- Prior approaches have sought to distinguish fine-grained visemes by aligning visual and auditory semantics, but often fell short of full synchronization.
+- Our proposed SyncVSR shows versatility across tasks, languages, and modalities at the cost of a forward pass.
+- Our learning framework integrates a projection layer that synchronizes visual representation with acoustic data, where the encoder learns to generate discrete audio tokens from a video sequence in a non-autoregressive manner.
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion (2021)](https://github.com/KR-HappyFace/KoDALLE)
 
@@ -238,6 +241,22 @@
 
 <img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="150" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg">
 
+---
+
+## 🏆 Competition Awards
+
+|              Host / Platform               |                                                                    Topic / Task                                                                     |        Result        |                                                                                Repository                                                                                 | Year |
+| :----------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
+| National IT Industry<br />Promotion Agency |                           [Machine Reading Compehension](https://aichallenge.or.kr/competition/detail/1/task/5/taskInfo)                            | 🥈 2nd <br />(2/26)  |             [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> MRC_Baseline](https://github.com/QuoQA-NLP/MRC_Baseline)              | 2022 |
+|           Ministry of Statistics           | [Korean Standard Industry Classification](https://data.kostat.go.kr/sbchome/bbs/boardList.do?boardId=SBCSBBS_000000025000&curMenuNo=OPT_09_02_00_0) | 🎖 7th <br />(7/311)  |                                                                                     -                                                                                     | 2022 |
+|                   Dacon                    |                   [KLUE benchmark Natural Language Inference](https://dacon.io/competitions/official/235875/overview/description)                   | 🥇 1st <br />(1/468) |                                                [🌐 KLUE NLI](https://dacon.io/competitions/official/235875/codeshare/4589)                                                | 2022 |
+|              Dacon & AI Frenz              |                          [Python Code Clone Detection](https://dacon.io/competitions/official/235900/overview/description)                          | 🥉 3rd <br />(3/337) |           [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> CloneDetection](https://github.com/sangHa0411/CloneDetection)           | 2022 |
+|             Dacon & CCEI Korea             |                    [Stock Price Forecast on KOSPI & KOSDAQ](https://dacon.io/competitions/official/235857/overview/description)                     | 🎖 6th <br />(6/205)  | [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> elastic-stock-prediction](https://github.com/snoop2head/elastic-stock-prediction) | 2021 |
+
+\*\*Dacon is Kaggle alike competition platform in Korea.
+
+---
+
 ## 💰 Quantitative Finance Projects
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Forecasting Federal Rate with Lasso Regression Model (2022)](https://github.com/snoop2head/Federal-Rate-Prediction)
@@ -253,6 +272,7 @@
 **Get financial data of public companies involved in spinoff events on Google Spreadsheet** | [🧩 Dataset Demo](https://docs.google.com/spreadsheets/d/1chJ2NKHVc0gKjsMaQI1UHEPxdjneV1ZWaTGHseQvxP4/edit?usp=sharing)
 
 - Wrangled finance dataset which are displayed on Google Sheets
+
 
 ---
 
