@@ -56,17 +56,12 @@
 
 ### [📄 SyncVSR: Data-Efficient Visual Speech Recognition with End-to-End Crossmodal Audio Token Synchronization (Interspeech 2024) ](https://arxiv.org/abs/2406.12233)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lrw-1000)](https://paperswithcode.com/sota/lipreading-on-lrw-1000?p=syncvsr-data-efficient-visual-speech) 
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lip-reading-in-the-wild)](https://paperswithcode.com/sota/lipreading-on-lip-reading-in-the-wild?p=syncvsr-data-efficient-visual-speech)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lrs2)](https://paperswithcode.com/sota/lipreading-on-lrs2?p=syncvsr-data-efficient-visual-speech)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lrs3-ted)](https://paperswithcode.com/sota/lipreading-on-lrs3-ted?p=syncvsr-data-efficient-visual-speech)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/landmark-based-lipreading-on-lrw)](https://paperswithcode.com/sota/landmark-based-lipreading-on-lrw?p=syncvsr-data-efficient-visual-speech)
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/landmark-based-lipreading-on-lrs2)](https://paperswithcode.com/sota/landmark-based-lipreading-on-lrs2?p=syncvsr-data-efficient-visual-speech)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lip-reading-in-the-wild)](https://paperswithcode.com/sota/lipreading-on-lip-reading-in-the-wild?p=syncvsr-data-efficient-visual-speech)  
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lrw-1000)](https://paperswithcode.com/sota/lipreading-on-lrw-1000?p=syncvsr-data-efficient-visual-speech)  
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lrs2)](https://paperswithcode.com/sota/lipreading-on-lrs2?p=syncvsr-data-efficient-visual-speech)  
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/lipreading-on-lrs3-ted)](https://paperswithcode.com/sota/lipreading-on-lrs3-ted?p=syncvsr-data-efficient-visual-speech)  
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/landmark-based-lipreading-on-lrw)](https://paperswithcode.com/sota/landmark-based-lipreading-on-lrw?p=syncvsr-data-efficient-visual-speech)  
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/landmark-based-lipreading-on-lrs2)](https://paperswithcode.com/sota/landmark-based-lipreading-on-lrs2?p=syncvsr-data-efficient-visual-speech)  
 
 |                   Overview of SyncVSR                    |            Performance of SyncVSR on LRS3             |
 | :------------------------------------------------------: | :---------------------------------------------------: |
@@ -76,8 +71,8 @@
 
 - A prominent challenge in VSR is the presence of homophenes—visually similar lip gestures that represent different phonemes.
 - Prior approaches have sought to distinguish fine-grained visemes by aligning visual and auditory semantics, but often fell short of full synchronization.
-- Our proposed SyncVSR shows versatility across tasks, languages, and modalities at the cost of a forward pass.
-- Our learning framework integrates a projection layer that synchronizes visual representation with acoustic data, where the encoder learns to generate discrete audio tokens from a video sequence in a non-autoregressive manner.
+- Our proposed learning framework, SyncVSR, shows versatility across tasks, languages, and input modalities at the cost of a forward pass.
+- By integrating a projection layer that synchronizes visual representation with acoustic data, the encoder learns to generate discrete audio tokens from a video sequence in a non-autoregressive manner.
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion (2021)](https://github.com/KR-HappyFace/KoDALLE)
 
