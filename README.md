@@ -2,9 +2,9 @@
 
 **Capture Questions, Answer with Code**
 
-| Name          | Email                  | Blog                          |
-| ------------- | ---------------------- | ----------------------------- |
-| Young Jin Ahn | snoop2head@kaist.ac.kr | https://snoop2head.github.io/ |
+| Name          | Email                  | Blog                                                  |
+| ------------- | ---------------------- | ----------------------------------------------------- |
+| Young Jin Ahn | snoop2head@kaist.ac.kr | [snoop2head.github.io](https://snoop2head.github.io/) |
 
 ## 📖 Education
 
