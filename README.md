@@ -47,10 +47,22 @@
 </details>
 
 
+## ✍️ Publications
 
----
+### [📄 Mixture of Monosemantic Experts for Transformers (Under Review in ICLR 2025) ](https://arxiv.org/abs/2412.04139)
 
-## 🛠 Multimodal
+[![arXiv](https://img.shields.io/badge/arXiv-2412.04139-b31b1b?style=flat-square)](https://arxiv.org/abs/2412.04139)
+[![Models](https://img.shields.io/badge/%F0%9F%A4%97Hugging_Face-Model_Zoo-ffd200?style=flat-square)](https://huggingface.co/MonetLLM)
+[![Demo](https://img.shields.io/badge/%F0%9F%A4%97Hugging_Face-Demo-ffd200?style=flat-square)](https://huggingface.co/spaces/MonetLLM/monet-vd-1.4B-100BT-hf-viewer)
+[![code](https://img.shields.io/badge/Github-Code-keygen.svg?logo=github&style=flat-square)](https://github.com/dmis-lab/Monet)
+
+[<img width="750" alt="image" src="./images/monet.png">](https://github.com/dmis-lab/Monet)
+
+**Transparent Large Language Model via scaling the expert count to 262,144.**
+
+- **Parameter-efficient architecture with increased number of experts**: By utilizing a novel expert decomposition method, Monet addresses memory constraints, ensuring that the total number of parameters scales proportionally to the square root of the number of experts.
+- **Mechanistic interpretability via monosemantic experts**: Monet facilitates mechanistic interpretability by enabling observations of fine-grained experts’ routing patterns. Our analyses confirm mutual exclusivity of knowledge between groups of experts, while qualitative examples demonstrate individual experts’ parametric knowledge.
+- **Robust knowledge manipulation without performance trade-offs**: Monet allows for end-to-end training that extends to robust knowledge manipulation during inference. Without degrading performance, it provides effortless control over knowledge domains, languages, and toxicity mitigation.
 
 ### [📄 SyncVSR: Data-Efficient Visual Speech Recognition with End-to-End Crossmodal Audio Token Synchronization (Interspeech 2024) ](https://arxiv.org/abs/2406.12233)
 
@@ -61,9 +73,9 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/landmark-based-lipreading-on-lrw)](https://paperswithcode.com/sota/landmark-based-lipreading-on-lrw?p=syncvsr-data-efficient-visual-speech)  
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/syncvsr-data-efficient-visual-speech/landmark-based-lipreading-on-lrs2)](https://paperswithcode.com/sota/landmark-based-lipreading-on-lrs2?p=syncvsr-data-efficient-visual-speech)  
 
-|                   Overview of SyncVSR                    |            Performance of SyncVSR on LRS3             |
-| :------------------------------------------------------: | :---------------------------------------------------: |
-| <img width="300" alt="image" src="./images/SyncVSR.png"> | <img width="440" alt="image" src="./images/LRS3.png"> |
+|                     Overview of SyncVSR                      |                Performance of SyncVSR on LRS3                |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [<img width="300" alt="image" src="./images/SyncVSR.png">](https://github.com/KAIST-AILab/SyncVSR) | [<img width="440" alt="image" src="./images/LRS3.png">](https://github.com/KAIST-AILab/SyncVSR) |
 
 **Frame-level crossmodal supervision with quantized audio tokens for enhanced Visual Speech Recognition.**
 
@@ -71,6 +83,10 @@
 - Prior approaches have sought to distinguish fine-grained visemes by aligning visual and auditory semantics, but often fell short of full synchronization.
 - Our proposed learning framework, SyncVSR, shows versatility across tasks, languages, and input modalities at the cost of a forward pass.
 - By integrating a projection layer that synchronizes visual representation with acoustic data, the encoder learns to generate discrete audio tokens from a video sequence in a non-autoregressive manner.
+
+---
+
+## 🛠 Multimodal
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> KoDALLE: Text to Fashion (2021)](https://github.com/KR-HappyFace/KoDALLE)
 
