@@ -249,17 +249,6 @@
 - Clustered universities with provided curriculum with K-means clustering.
 - Hosted reports on universities using Gatsby.js, GraphQL, and Netlify.
 
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> fitcuration website (2020)](https://github.com/snoop2head/fitcuration-django)
-
-**Search-based exercise retrieval web service** | [📷 Demo Video](https://youtu.be/kef0CxzMANo?t=38)
-
-- Built retrieval algorithm based on search keyword using TF-IDF.
-- Deployed website using Docker, AWS RDS, AWS S3, AWS EBS
-- Constructed backend using Django, Django ORM & PostgreSQL.
-- Composed client-side using Sass, Tailwind, HTML5.
-
-<img width="160" alt="image" src="./images/fit_1_home_1.jpg"><img width="160" alt="image" src="./images/fit_2_search_1.jpg"><img width="150" alt="image" src="./images/fit_5_category_2.jpg"><img width="160" alt="image" src="./images/fit_4_user.jpg">
-
 ## 💰 Quantitative Finance
 
 ### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Forecasting Federal Rate with Lasso Regression Model (2022)](https://github.com/snoop2head/Federal-Rate-Prediction)
@@ -289,52 +278,3 @@
 **Updated PostgreSQL initialization for "Quickstart: dockerizing django" documentation** | [✍️ Pull Request](https://github.com/docker/docker.github.io/pull/10624)
 
 - Skills: Docker, docker-compose, Django
-
-## 🗄 ETCs
-
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Covid19 Confirmed Cases Prediction (2020)](https://github.com/Rank23/COVID19)
-
-**Predict the spread of COVID-19 in early stage after its entrance to country.**
-
-- Fixed existing errors on Github Repository.
-- Wrote footnotes in both English and Korean.
-- ±5% accuracy for one-day prediction.
-- ±10% accuracy for 30-day prediction.
-
-### [<img width="18" alt="image" src="./images/GitHub-Mark/PNG/GitHub-Mark-Light-64px.png"> Indigo (2019)](https://github.com/snoop2head/indigo)
-
-**Don't miss concerts for your favorite artists with KakaoTalk Chatbot** | [📷 Demo Video](https://www.youtube.com/watch?v=uIOWqumaOD4)
-
-- Created API server for KakaoTalk chatbot with Flask, Pymongo and MongoDB.
-- Deployed the API server on AWS EC2.
-- Visualized concert schedules on user's Google Calendar.
-- Created / Updated events in Google Calendar.
-
----
-
-## 🛠 Skillsets
-
-**Data Analysis and Machine Learning**
-
-- Data Analysis Library: pandas, numpy
-- Deep Learning: pytorch, transformers
-- Machine Learning: scikit-learn, gensim, xgboost
-
-**Backend**
-
-- Python / Django - Django ORM, CRUD, OAuth
-- Python / FastAPI(uvicorn) - CRUD API
-- Python / Flask - CRUD API
-
-**Client**
-
-- HTML / Pug.js
-- CSS / Sass, Tailwind, Bulma
-- JavaScript / ES6
-
-**Deployment**
-
-- Docker, docker-compose
-- AWS EC2, Google Cloud App Engine
-- AWS S3, RDS (PostgreSQL)
-- AWS Elastic Beanstalk, CodePipeline;
